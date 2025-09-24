@@ -1,0 +1,603 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+
+<?php 
+    include "assets/includes/links.php";
+?>
+
+</head>
+
+
+<!-- page wrapper -->
+<body>
+
+    <div class="boxed_wrapper">
+
+
+        <!-- preloader -->
+        <?php 
+                include "assets/includes/loader.php";
+            ?>
+        <!-- preloader end -->
+
+
+        <!-- main header -->
+<?php 
+    include "assets/includes/header.php";
+?>
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><i class="fas fa-times"></i></div>
+            
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+                <div class="contact-info">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li>Chicago 12, Melborne City, USA</li>
+                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
+                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                    </ul>
+                </div>
+                <div class="social-links">
+                    <ul class="clearfix">
+                        <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="index.html"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="index.html"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="index.html"><span class="fab fa-youtube"></span></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div><!-- End Mobile Menu -->
+
+
+        <!-- Page Title -->
+        <section class="page-title centred">
+            <div class="outer-container">
+                <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/page-title-8.jpg);"></div>
+                <div class="auto-container">
+                    <div class="content-box">
+                        <h1>Our Solutions</h1>
+                        <ul class="bread-crumb clearfix">
+                            <li><a href="index.html">Home</a></li>
+                            <li>Services 01</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Page Title -->
+
+
+
+        <!-- weare-style-two -->
+        <section class="weare-style-two">
+            <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-31.png);"></div>
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box p_relative d_block">
+                            <div class="image-shape" style="background-image: url(assets/images/shape/shape-30.png);"></div>
+                            <figure class="image">
+                                <img src="assets/images/resource/about-8.jpg" alt="">
+                                <div class="support-box">
+                                    <h3>For free consultation</h3>
+                                    <h6><a href="tel:88123456987231">+88 12345 6987 231</a></h6>
+                                </div>
+                            </figure>
+                            <div class="text">
+                                <h5>12 Years Experience</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content-box">
+                            <div class="sec-title">
+                                <h5 class="g_color"><i class="icon-11 g_color"></i>Who We are?</h5>
+                                <h2>The global business automation</h2>
+                                <p>Business is the activity of making one's living or <br>making money by producing cumsociis natoque.</p>
+                            </div>
+                            <div class="text">
+                                <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                            </div>
+                            <div class="inner-box">
+                                <div class="row clearfix">
+                                    <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                        <div class="single-item p_relative d_block">
+                                            <div class="upper-box">
+                                                <div class="icon-box g_color"><i class="icon-27"></i></div>
+                                                <h5>Profit Sharing</h5>
+                                            </div>
+                                            <p>Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 author-column">
+                                        <div class="author-box pl_30">
+                                            <figure class="author-thumb"><img src="assets/images/resource/thumb-1.jpg" alt=""></figure>
+                                            <figure class="signature"><img src="assets/images/icons/signature-1.png" alt=""></figure>
+                                            <h5>Benjamin Everett</h5>
+                                            <div class="designation"><span>-</span> CEO & Founder</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- weare-style-two end -->
+
+
+        <!-- progress-style-two -->
+        <section class="progress-style-two">
+            <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/progress-bg.jpg);"></div>
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                        <div class="content-box">
+                            <div class="sec-title">
+                                <h5 class="g_color"><i class="icon-11 g_color"></i>Service Level</h5>
+                                <h2>Our Experience Help You To Grow Up <span>Your Business</span></h2>
+                                <p>Business is the activity of making one's living or making money by producing cumsociis <br>natoque.</p>
+                            </div>
+                            <div class="progress-inner">
+                                <div class="progress-box">
+                                    <div class="single-progress-box p_relative d_block mb_20">
+                                        <h6>Web Development</h6>
+                                        <div class="bar">
+                                            <div class="bar-inner count-bar" data-percent="80%"><div class="count-text">80%</div></div>
+                                        </div>
+                                    </div>
+                                    <div class="single-progress-box p_relative d_block mb_20">
+                                        <h6>UX/ UI Design </h6>
+                                        <div class="bar">
+                                            <div class="bar-inner count-bar" data-percent="70%"><div class="count-text">70%</div></div>
+                                        </div>
+                                    </div>
+                                    <div class="single-progress-box p_relative d_block">
+                                        <h6>Web Design</h6>
+                                        <div class="bar">
+                                            <div class="bar-inner count-bar" data-percent="90%"><div class="count-text">90%</div></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- progress-style-two end -->
+
+
+        <!-- project-section -->
+        <section class="project-section">
+            <div class="auto-container">
+                <div class="sec-title">
+                    <h5 class="g_color"><i class="icon-11 g_color"></i>Case studies</h5>
+                    <h2>Latest From Our Projects</h2>
+                </div>
+            </div>
+            <div class="outer-container">
+                <div class="two-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/project/project-1.jpg" alt=""></figure>
+                            <div class="text">
+                                <span>Business Consulting</span>
+                                <h2><a href="index.html">Business project 1</a></h2>
+                                <div class="link"><a href="index.html"><i class="icon-7 g_color"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/project/project-2.jpg" alt=""></figure>
+                            <div class="text">
+                                <span>Business Consulting</span>
+                                <h2><a href="index.html">Business project 2</a></h2>
+                                <div class="link"><a href="index.html"><i class="icon-7 g_color"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/project/project-3.jpg" alt=""></figure>
+                            <div class="text">
+                                <span>Business Consulting</span>
+                                <h2><a href="index.html">Business project 3</a></h2>
+                                <div class="link"><a href="index.html"><i class="icon-7 g_color"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/project/project-4.jpg" alt=""></figure>
+                            <div class="text">
+                                <span>Business Consulting</span>
+                                <h2><a href="index.html">Business project 4</a></h2>
+                                <div class="link"><a href="index.html"><i class="icon-7 g_color"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- project-section end -->
+
+
+        <!-- testimonial-style-two -->
+        <section class="testimonial-style-two service-page-1">
+            <div class="auto-container">
+                <div class="upper-box">
+                    <div class="row align-items-center clearfix">
+                        <div class="col-lg-6 col-md-12 col-sm-12 title-column">
+                            <div class="sec-title">
+                                <h5 class="g_color"><i class="icon-11 g_color"></i>Customer says</h5>
+                                <h2>What People Say</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 text-column">
+                            <div class="text">
+                                <p>Business is the activity of making one's living or making money by producing cumsociis <br>natoque.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bxslider">
+                    <div class="slider-content">
+                        <div class="row clearfix">
+                            <div class="col-lg-5 col-md-12 col-sm-12 thumb-column">
+                                <div class="slider-pager">
+                                    <div class="shape">
+                                        <div class="shape-1"></div>
+                                        <div class="shape-2 rotate-me" style="background-image: url(assets/images/shape/shape-16.png);"></div>
+                                        <div class="shape-3 rotate-me" style="background-image: url(assets/images/shape/shape-17.png);"></div>
+                                        <div class="shape-4" style="background-image: url(assets/images/shape/shape-18.png);"></div>
+                                        <div class="shape-5"></div>
+                                    </div>
+                                    <div class="all-text"><h5><a href="index-2.html" class="g_color">All Testimonial</a></h5></div>
+                                    <ul class="thumb-box clearfix">
+                                        <li>
+                                            <a class="active" data-slide-index="0" href="#">
+                                                <figure class="thumb thumb-1"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="1" href="#">
+                                                <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
+                                            </a>                                       
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="2" href="#">
+                                                <figure class="thumb thumb-3"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="3" href="#">
+                                                <figure class="thumb thumb-4"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                                <div class="testimonial-content">
+                                    <h2>Best  Theme for Business</h2>
+                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                    <div class="author-info">
+                                        <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
+                                        <h5>John Smith, <span class="g_color">Our Customers</span></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider-content">
+                        <div class="row clearfix">
+                            <div class="col-lg-5 col-md-12 col-sm-12 thumb-column">
+                                <div class="slider-pager">
+                                    <div class="shape">
+                                        <div class="shape-1"></div>
+                                        <div class="shape-2 rotate-me" style="background-image: url(assets/images/shape/shape-16.png);"></div>
+                                        <div class="shape-3 rotate-me" style="background-image: url(assets/images/shape/shape-17.png);"></div>
+                                        <div class="shape-4" style="background-image: url(assets/images/shape/shape-18.png);"></div>
+                                        <div class="shape-5"></div>
+                                    </div>
+                                    <div class="all-text"><h5><a href="index-2.html" class="g_color">All Testimonial</a></h5></div>
+                                    <ul class="thumb-box clearfix">
+                                        <li>
+                                            <a class="active" data-slide-index="0" href="#">
+                                                <figure class="thumb thumb-1"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="1" href="#">
+                                                <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
+                                            </a>                                       
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="2" href="#">
+                                                <figure class="thumb thumb-3"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="3" href="#">
+                                                <figure class="thumb thumb-4"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                                <div class="testimonial-content">
+                                    <h2>Best  Theme for Business</h2>
+                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                    <div class="author-info">
+                                        <figure class="author-thumb"><img src="assets/images/resource/testimonial-2.jpg" alt=""></figure>
+                                        <h5>Roman Naznin, <span class="g_color">Our Customers</span></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider-content">
+                        <div class="row clearfix">
+                            <div class="col-lg-5 col-md-12 col-sm-12 thumb-column">
+                                <div class="slider-pager">
+                                    <div class="shape">
+                                        <div class="shape-1"></div>
+                                        <div class="shape-2 rotate-me" style="background-image: url(assets/images/shape/shape-16.png);"></div>
+                                        <div class="shape-3 rotate-me" style="background-image: url(assets/images/shape/shape-17.png);"></div>
+                                        <div class="shape-4" style="background-image: url(assets/images/shape/shape-18.png);"></div>
+                                        <div class="shape-5"></div>
+                                    </div>
+                                    <div class="all-text"><h5><a href="index-2.html" class="g_color">All Testimonial</a></h5></div>
+                                    <ul class="thumb-box clearfix">
+                                        <li>
+                                            <a class="active" data-slide-index="0" href="#">
+                                                <figure class="thumb thumb-1"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="1" href="#">
+                                                <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
+                                            </a>                                       
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="2" href="#">
+                                                <figure class="thumb thumb-3"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="3" href="#">
+                                                <figure class="thumb thumb-4"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                                <div class="testimonial-content">
+                                    <h2>Best  Theme for Business</h2>
+                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                    <div class="author-info">
+                                        <figure class="author-thumb"><img src="assets/images/resource/testimonial-3.jpg" alt=""></figure>
+                                        <h5>Jos Roy, <span class="g_color">Our Customers</span></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider-content">
+                        <div class="row clearfix">
+                            <div class="col-lg-5 col-md-12 col-sm-12 thumb-column">
+                                <div class="slider-pager">
+                                    <div class="shape">
+                                        <div class="shape-1"></div>
+                                        <div class="shape-2 rotate-me" style="background-image: url(assets/images/shape/shape-16.png);"></div>
+                                        <div class="shape-3 rotate-me" style="background-image: url(assets/images/shape/shape-17.png);"></div>
+                                        <div class="shape-4" style="background-image: url(assets/images/shape/shape-18.png);"></div>
+                                        <div class="shape-5"></div>
+                                    </div>
+                                    <div class="all-text"><h5><a href="index-2.html" class="g_color">All Testimonial</a></h5></div>
+                                    <ul class="thumb-box clearfix">
+                                        <li>
+                                            <a class="active" data-slide-index="0" href="#">
+                                                <figure class="thumb thumb-1"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="1" href="#">
+                                                <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
+                                            </a>                                       
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="2" href="#">
+                                                <figure class="thumb thumb-3"><img src="assets/images/resource/thumb-6.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a data-slide-index="3" href="#">
+                                                <figure class="thumb thumb-4"><img src="assets/images/resource/thumb-7.png" alt=""></figure>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                                <div class="testimonial-content">
+                                    <h2>Best  Theme for Business</h2>
+                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                    <div class="author-info">
+                                        <figure class="author-thumb"><img src="assets/images/resource/testimonial-4.jpg" alt=""></figure>
+                                        <h5>Adam Batlar, <span class="g_color">Our Customers</span></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- testimonial-style-two end -->
+
+
+        <!-- clients-section -->
+        <section class="clients-section service-page-1">
+            <div class="auto-container">
+                <div class="inner-container">
+                    <div class="four-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
+                        <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-1.png" alt=""></a></figure>
+                        <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-2.png" alt=""></a></figure>
+                        <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-3.png" alt=""></a></figure>
+                        <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-4.png" alt=""></a></figure>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- clients-section end -->
+
+
+        <!-- subscribe-section -->
+        <section class="subscribe-section">
+            <div class="auto-container">
+                <div class="row clearfix align-items-center">
+                    <div class="col-lg-5 col-md-12 col-sm-12 text-column">
+                        <div class="text">
+                            <h2><i class="icon-19"></i>Subscribe Our Newsletter</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-7 col-md-12 col-sm-12 form-column">
+                        <div class="form-inner">
+                            <form action="contact.html" method="post">
+                                <div class="form-group">
+                                    <input type="email" name="emaail" placeholder="Enter Your Email Adress" required="">
+                                    <button type="submit" class="theme-btn btn-one"><i class="icon-7"></i>Subscribe</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- subscribe-section end -->
+
+
+        <!-- main-footer -->
+        <section class="main-footer style-three">
+            <div class="shape">
+                <div class="shape-1"></div>
+                <div class="shape-2"></div>
+                <div class="shape-3" style="background-image: url(assets/images/shape/shape-21.png);"></div>
+                <div class="shape-4" style="background-image: url(assets/images/shape/shape-22.png);"></div>
+            </div>
+            <div class="auto-container">
+                <div class="widget-section">
+                    <div class="row clearfix">
+                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                            <div class="logo-widget footer-widget">
+                                <figure class="footer-logo"><a href="index-3.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
+                                <div class="widget-content">
+                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</p>
+                                    <ul class="social-links clearfix">
+                                        <li><a href="index-3.html"><i class="icon-3"></i></a></li>
+                                        <li><a href="index-3.html"><i class="icon-4"></i></a></li>
+                                        <li><a href="index-3.html"><i class="icon-5"></i></a></li>
+                                        <li><a href="index-3.html"><i class="icon-6"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
+                            <div class="footer-widget links-widget">
+                                <div class="widget-title">
+                                    <h3>Quick link</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="links-list clearfix">
+                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="index.html">About</a></li>
+                                        <li><a href="index.html">Contact</a></li>
+                                        <li><a href="index.html">Services</a></li>
+                                        <li><a href="index.html">Blog</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                            <div class="footer-widget about-widget contact-widget">
+                                <div class="widget-title">
+                                    <h3>Contact Info</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="info clearfix">
+                                        <li><i class="icon-2"></i><a href="tel:+88123456987231">+88 12345 6987 231</a></li>
+                                        <li><i class="icon-19"></i><a href="mailto:info@example.com">info@example.com</a></li>
+                                        <li><i class="icon-23"></i>380 St Kilda Road, Melbo- urne VIC 3004, Australia</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                            <div class="footer-widget newsletter-widget ml_70">
+                                <div class="widget-title">
+                                    <h3>Newsletter</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <p>Business is the activity of making one's living or making money by producing cumsociis natoque.</p>
+                                    <form action="contact.html" method="post">
+                                        <div class="form-group">
+                                            <input type="email" name="email" placeholder="Your Email" required="">
+                                            <button type="submit" class="theme-btn btn-one"><i class="icon-7"></i>Subscribe</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-bottom centred">
+                    <p><a href="index.html">BitFix</a> &copy; 2025 All Right Reserved</p>
+                </div>
+            </div>
+        </section>
+        <!-- main-footer end -->
+
+
+
+        <!--Scroll to top-->
+        <div class="scroll-to-top">
+            <div>
+                <div class="scroll-top-inner">
+                    <div class="scroll-bar">
+                        <div class="bar-inner"></div>
+                    </div>
+                    <div class="scroll-bar-text">Go To Top</div>
+                </div>
+            </div>
+        </div>
+        <!-- Scroll to top end -->
+        
+    </div>
+
+<?php 
+    include "assets/includes/scripts.php";
+?>
+
+    <script src="assets/js/isotope.js"></script>
+
+
+</body><!-- End of .page_wrapper -->
+</html>
