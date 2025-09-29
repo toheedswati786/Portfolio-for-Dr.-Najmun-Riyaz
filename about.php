@@ -200,83 +200,9 @@
 
 
         <!-- main-footer -->
-        <section class="main-footer style-three">
-            <div class="shape">
-                <div class="shape-1"></div>
-                <div class="shape-2"></div>
-                <div class="shape-3" style="background-image: url(assets/images/shape/shape-21.png);"></div>
-                <div class="shape-4" style="background-image: url(assets/images/shape/shape-22.png);"></div>
-            </div>
-            <div class="auto-container">
-                <div class="widget-section">
-                    <div class="row clearfix">
-                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
-                            <div class="logo-widget footer-widget">
-                                <figure class="footer-logo"><a href="index-3.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
-                                <div class="widget-content">
-                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</p>
-                                    <ul class="social-links clearfix">
-                                        <li><a href="index-3.html"><i class="icon-3"></i></a></li>
-                                        <li><a href="index-3.html"><i class="icon-4"></i></a></li>
-                                        <li><a href="index-3.html"><i class="icon-5"></i></a></li>
-                                        <li><a href="index-3.html"><i class="icon-6"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget links-widget">
-                                <div class="widget-title">
-                                    <h3>Quick link</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <ul class="links-list clearfix">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="index.html">About</a></li>
-                                        <li><a href="index.html">Contact</a></li>
-                                        <li><a href="index.html">Services</a></li>
-                                        <li><a href="index.html">Blog</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget about-widget contact-widget">
-                                <div class="widget-title">
-                                    <h3>Contact Info</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <ul class="info clearfix">
-                                        <li><i class="icon-2"></i><a href="tel:+88123456987231">+88 12345 6987 231</a></li>
-                                        <li><i class="icon-19"></i><a href="mailto:info@example.com">info@example.com</a></li>
-                                        <li><i class="icon-23"></i>380 St Kilda Road, Melbo- urne VIC 3004, Australia</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget newsletter-widget ml_70">
-                                <div class="widget-title">
-                                    <h3>Newsletter</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <p>Business is the activity of making one's living or making money by producing cumsociis natoque.</p>
-                                    <form action="contact.html" method="post">
-                                        <div class="form-group">
-                                            <input type="email" name="email" placeholder="Your Email" required="">
-                                            <button type="submit" class="theme-btn btn-one"><i class="icon-7"></i>Subscribe</button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-bottom centred">
-                    <p><a href="index.html">BitFix</a> &copy; 2025 All Right Reserved</p>
-                </div>
-            </div>
-        </section>
+        <?php
+        include "assets/includes/footer.php";
+        ?>
         <!-- main-footer end -->
 
 

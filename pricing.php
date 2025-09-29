@@ -90,13 +90,13 @@
                         <div class="row align-items-center clearfix">
                             <div class="col-lg-6 col-md-12 col-sm-12 title-column">
                                 <div class="sec-title">
-                                    <h5 class="g_color"><i class="icon-11 g_color"></i>Pricing Table</h5>
-                                    <h2>Our Flexible Pricing Plans</h2>
+                                    <h5 class="g_color"><i class="icon-11 g_color"></i>Choose Your Plan</h5>
+                                    <h2>Simple, Transparent Pricing</h2>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 text-column">
                                 <div class="text">
-                                    <p>Business is the activity of making one's living or making money by producing cumsociis <br>natoque.</p>
+                                    <p>Find the package that best fits your needs—clear, flexible, and designed to support you every step of the way.</p>
                                 </div>
                             </div>
                         </div>
@@ -106,17 +106,9 @@
                             <div class="pricing-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                                 <div class="pricing-table">
                                     <div class="table-header centred">
-                                        <h3>Standard Plan</h3>
-                                        <span>*rates are subject to change</span>
+                                        <h3>6 Sessions</h3>
+                                        <span>Includes email support in between the sessions; <h5 style="font-weight: 600; font-family:'Times New Roman', Times, serif;">$1,800.00</h5></span>
                                         <div class="icon-box"><i class="icon-36"></i></div>
-                                    </div>
-                                    <div class="table-content">
-                                        <ul class="feature-list clearfix">
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li class="cancel">Laser Cutting<i class="fal fa-times"></i></li>
-                                        </ul>
                                     </div>
                                     <div class="table-footer centred">
                                         <a href="index-4.html" class="theme-btn btn-one"><i class="icon-7"></i>Purchase</a>
@@ -128,17 +120,9 @@
                             <div class="pricing-block-one wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
                                 <div class="pricing-table">
                                     <div class="table-header centred">
-                                        <h3>Premium Plan</h3>
-                                        <span>*rates are subject to change</span>
+                                        <h3>12 Sessions</h3>
+                                        <span>Includes email support in between the sessions; <h5 style="font-weight: 600; font-family:'Times New Roman', Times, serif;">$3,400.00</h5></span>
                                         <div class="icon-box"><i class="icon-37"></i></div>
-                                    </div>
-                                    <div class="table-content">
-                                        <ul class="feature-list clearfix">
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li class="cancel">Laser Cutting<i class="fal fa-times"></i></li>
-                                        </ul>
                                     </div>
                                     <div class="table-footer centred">
                                         <a href="index-4.html" class="theme-btn btn-one"><i class="icon-7"></i>Purchase</a>
@@ -150,21 +134,79 @@
                             <div class="pricing-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                                 <div class="pricing-table">
                                     <div class="table-header centred">
-                                        <h3>Best Price</h3>
-                                        <span>*rates are subject to change</span>
+                                        <h3>Yearly Membership- 24 Sessions</h3>
+                                        <span>Includes email support in between the sessions; <h5 style="font-weight: 600; font-family:'Times New Roman', Times, serif;">$6,500.00</h5></span>
                                         <div class="icon-box"><i class="icon-38"></i></div>
-                                    </div>
-                                    <div class="table-content">
-                                        <ul class="feature-list clearfix">
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li>Laser Cutting<i class="fal fa-check"></i></li>
-                                            <li class="cancel">Laser Cutting<i class="fal fa-times"></i></li>
-                                        </ul>
                                     </div>
                                     <div class="table-footer centred">
                                         <a href="index-4.html" class="theme-btn btn-one"><i class="icon-7"></i>Purchase</a>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="upper-title" style="margin-top: 70px;">
+                        <div class="row align-items-center clearfix">
+                            <div class="col-lg-12 col-md-12 col-sm-12 title-column">
+                                <div class="sec-title">
+                                    <h2>These are some of the challenges she can help you with:</h2>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-12 text-column mt-5 pt-2">
+                                <div class="text">
+                                    <ol>
+                                        <li>
+                                            <b>•</b> Manage work-related stress.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Perfectionism.
+                                        </li>
+                                        <li>
+                                            <b>•</b> People Pleasing.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Identifying barriers that are stopping you from finding your true potential.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Become a more confident person.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Handle relationships with integrity and mutual respect.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Past hurts and traumas which keep you stuck in life.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Meaning of “true friendships”, and partnerships.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Fear of making mistakes.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Relationship issues.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Building self-esteem.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Develop a loving and respectful relationships with your loved ones.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Communicate effectively.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Help find work life balance.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Meaning of Healthy Boundaries.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Meaning and methods of developing self love.
+                                        </li>
+                                        <li>
+                                            <b>•</b> Help with parenting issues.
+                                        </li>
+                                    </ol>
                                 </div>
                             </div>
                         </div>
@@ -201,122 +243,9 @@
 
 
         <!-- main-footer -->
-        <section class="main-footer">
-            <div class="shape">
-                <div class="shape-1"></div>
-                <div class="shape-2"></div>
-                <div class="shape-3" style="background-image: url(assets/images/shape/shape-21.png);"></div>
-                <div class="shape-4" style="background-image: url(assets/images/shape/shape-22.png);"></div>
-            </div>
-            <div class="auto-container">
-                <div class="footer-top">
-                    <div class="top-inner">
-                        <figure class="footer-logo"><a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
-                        <ul class="social-links clearfix">
-                            <li><a href="index.html"><i class="icon-3"></i></a></li>
-                            <li><a href="index.html"><i class="icon-4"></i></a></li>
-                            <li><a href="index.html"><i class="icon-5"></i></a></li>
-                            <li><a href="index.html"><i class="icon-6"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="widget-section">
-                    <div class="row clearfix">
-                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget about-widget">
-                                <div class="widget-title">
-                                    <h3>About</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</p>
-                                    <ul class="info clearfix">
-                                        <li><i class="icon-2"></i><a href="tel:+88123456987231">+88 12345 6987 231</a></li>
-                                        <li><i class="icon-19"></i><a href="mailto:info@example.com">info@example.com</a></li>
-                                        <li><i class="icon-23"></i>380 St Kilda Road, Melbourne <br>VIC 3004, Australia</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget links-widget">
-                                <div class="widget-title">
-                                    <h3>Quick link</h3>
-                                </div>
-                                <div class="row clearfix">
-                                    <div class="col-lg-6 col-md-6 col-sm-12 link-column">
-                                        <ul class="links-list clearfix">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="index.html">About</a></li>
-                                            <li><a href="index.html">Contact</a></li>
-                                            <li><a href="index.html">Services</a></li>
-                                            <li><a href="index.html">Blog</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12 link-column">
-                                        <ul class="links-list clearfix">
-                                            <li><a href="index.html">About Company</a></li>
-                                            <li><a href="index.html">Our Business</a></li>
-                                            <li><a href="index.html">Meet Our Expert</a></li>
-                                            <li><a href="index.html">Our Case Studies</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget gallery-widget">
-                                <div class="widget-title">
-                                    <h3>Gallery</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <ul class="image-list clearfix">
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-1.jpg" alt="">
-                                                <a href="assets/images/resource/footer-1.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-2.jpg" alt="">
-                                                <a href="assets/images/resource/footer-2.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-3.jpg" alt="">
-                                                <a href="assets/images/resource/footer-3.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-4.jpg" alt="">
-                                                <a href="assets/images/resource/footer-4.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-5.jpg" alt="">
-                                                <a href="assets/images/resource/footer-5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-6.jpg" alt="">
-                                                <a href="assets/images/resource/footer-6.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-bottom centred">
-                    <p><a href="index.html">BitFix</a> &copy; 2025 All Right Reserved</p>
-                </div>
-            </div>
-        </section>
+        <?php
+        include "assets/includes/footer.php";
+        ?>
         <!-- main-footer end -->
 
 

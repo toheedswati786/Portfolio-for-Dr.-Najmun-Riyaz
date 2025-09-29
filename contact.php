@@ -70,10 +70,6 @@
                 <div class="auto-container">
                     <div class="content-box">
                         <h1>Contact</h1>
-                        <ul class="bread-crumb clearfix">
-                            <li><a href="index.html">Home</a></li>
-                            <li>Contact Us</li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -96,15 +92,12 @@
                                     <form action="index.html" method="post">
                                         <div class="row clearfix">
                                             <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                                <i class="icon-17"></i>
                                                 <input type="text" name="name" placeholder="Name" required="">
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                                <i class="icon-18"></i>
                                                 <input type="text" name="phone" placeholder="Phone" required="">
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                                <i class="icon-19"></i>
                                                 <input type="email" name="email" placeholder="Email" required="">
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-sm-12 form-group">
@@ -122,9 +115,9 @@
                             <div class="info-box">
                                 <h2>Office Info</h2>
                                 <ul class="info clearfix">
-                                    <li><i class="icon-2"></i><a href="tel:+88123456987231">+88 12345 6987 231</a></li>
-                                    <li><i class="icon-19"></i><a href="mailto:info@example.com">info@example.com</a></li>
-                                    <li><i class="icon-23"></i>380 St Kilda Road, Melbourne <br>VIC 3004, Australia</li>
+                                    <li><i class="icon-2"></i><a href="tel:+15513628226">+1(551)362-8226</a></li>
+                                    <li><i class="icon-19"></i><a href="mailto:office@drnajmunriyaz.com">office@drnajmunriyaz.com</a></li>
+                                    <li><i class="icon-23"></i>Mount Laurel, <br> NJ 08054</li>
                                 </ul>
                             </div>
                         </div>
@@ -161,122 +154,9 @@
 
 
         <!-- main-footer -->
-        <section class="main-footer">
-            <div class="shape">
-                <div class="shape-1"></div>
-                <div class="shape-2"></div>
-                <div class="shape-3" style="background-image: url(assets/images/shape/shape-21.png);"></div>
-                <div class="shape-4" style="background-image: url(assets/images/shape/shape-22.png);"></div>
-            </div>
-            <div class="auto-container">
-                <div class="footer-top">
-                    <div class="top-inner">
-                        <figure class="footer-logo"><a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
-                        <ul class="social-links clearfix">
-                            <li><a href="index.html"><i class="icon-3"></i></a></li>
-                            <li><a href="index.html"><i class="icon-4"></i></a></li>
-                            <li><a href="index.html"><i class="icon-5"></i></a></li>
-                            <li><a href="index.html"><i class="icon-6"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="widget-section">
-                    <div class="row clearfix">
-                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget about-widget">
-                                <div class="widget-title">
-                                    <h3>About</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</p>
-                                    <ul class="info clearfix">
-                                        <li><i class="icon-2"></i><a href="tel:+88123456987231">+88 12345 6987 231</a></li>
-                                        <li><i class="icon-19"></i><a href="mailto:info@example.com">info@example.com</a></li>
-                                        <li><i class="icon-23"></i>380 St Kilda Road, Melbourne <br>VIC 3004, Australia</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget links-widget">
-                                <div class="widget-title">
-                                    <h3>Quick link</h3>
-                                </div>
-                                <div class="row clearfix">
-                                    <div class="col-lg-6 col-md-6 col-sm-12 link-column">
-                                        <ul class="links-list clearfix">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="index.html">About</a></li>
-                                            <li><a href="index.html">Contact</a></li>
-                                            <li><a href="index.html">Services</a></li>
-                                            <li><a href="index.html">Blog</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12 link-column">
-                                        <ul class="links-list clearfix">
-                                            <li><a href="index.html">About Company</a></li>
-                                            <li><a href="index.html">Our Business</a></li>
-                                            <li><a href="index.html">Meet Our Expert</a></li>
-                                            <li><a href="index.html">Our Case Studies</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
-                            <div class="footer-widget gallery-widget">
-                                <div class="widget-title">
-                                    <h3>Gallery</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <ul class="image-list clearfix">
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-1.jpg" alt="">
-                                                <a href="assets/images/resource/footer-1.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-2.jpg" alt="">
-                                                <a href="assets/images/resource/footer-2.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-3.jpg" alt="">
-                                                <a href="assets/images/resource/footer-3.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-4.jpg" alt="">
-                                                <a href="assets/images/resource/footer-4.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-5.jpg" alt="">
-                                                <a href="assets/images/resource/footer-5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                        <li>
-                                            <figure class="image">
-                                                <img src="assets/images/resource/footer-6.jpg" alt="">
-                                                <a href="assets/images/resource/footer-6.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
-                                            </figure>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-bottom centred">
-                    <p><a href="index.html">BitFix</a> &copy; 2025 All Right Reserved</p>
-                </div>
-            </div>
-        </section>
+        <?php
+        include "assets/includes/footer.php";   
+        ?>
         <!-- main-footer end -->
 
 
