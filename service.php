@@ -1,64 +1,38 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 
-<?php 
+    <?php
     include "assets/includes/links.php";
-?>
+    ?>
 
 </head>
 
 
 <!-- page wrapper -->
+
 <body>
 
     <div class="boxed_wrapper">
 
 
         <!-- preloader -->
-        <?php 
-                include "assets/includes/loader.php";
-            ?>
+        <?php
+        include "assets/includes/loader.php";
+        ?>
         <!-- preloader end -->
 
 
         <!-- main header -->
-<?php 
-    include "assets/includes/header.php";
-?>
+        <?php
+        include "assets/includes/header.php";
+        ?>
         <!-- main-header end -->
-
-        <!-- Mobile Menu  -->
-        <div class="mobile-menu">
-            <div class="menu-backdrop"></div>
-            <div class="close-btn"><i class="fas fa-times"></i></div>
-            
-            <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
-                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
-                <div class="contact-info">
-                    <h4>Contact Info</h4>
-                    <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
-                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                        <li><a href="mailto:info@example.com">info@example.com</a></li>
-                    </ul>
-                </div>
-                <div class="social-links">
-                    <ul class="clearfix">
-                        <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-youtube"></span></a></li>
-                    </ul>
-                </div>
-            </nav>
-        </div><!-- End Mobile Menu -->
 
 
         <!-- Page Title -->
@@ -68,10 +42,6 @@
                 <div class="auto-container">
                     <div class="content-box">
                         <h1>Our Solutions</h1>
-                        <ul class="bread-crumb clearfix">
-                            <li><a href="index.html">Home</a></li>
-                            <li>Services 01</li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -92,11 +62,11 @@
                                 <img src="assets/images/resource/about-8.jpg" alt="">
                                 <div class="support-box">
                                     <h3>For free consultation</h3>
-                                    <h6><a href="tel:88123456987231">+88 12345 6987 231</a></h6>
+                                    <h6><a href="tel:+15513628226">+1(551)362-8226</a></h6>
                                 </div>
                             </figure>
                             <div class="text">
-                                <h5>12 Years Experience</h5>
+                                <h5>30+ Years Experience</h5>
                             </div>
                         </div>
                     </div>
@@ -104,29 +74,29 @@
                         <div class="content-box">
                             <div class="sec-title">
                                 <h5 class="g_color"><i class="icon-11 g_color"></i>Who We are?</h5>
-                                <h2>The global business automation</h2>
-                                <p>Business is the activity of making one's living or <br>making money by producing cumsociis natoque.</p>
+                                <h2>Transforming Mental Health & Wellness</h2>
+                                <p>Mental well-being is the foundation of living a balanced and fulfilling life. At Dr. Najmun Riyaz’s practice, we specialize in helping individuals, families, and communities heal, grow, and thrive.</p>
                             </div>
                             <div class="text">
-                                <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                <p>With years of clinical expertise and a compassionate approach, Dr. Riyaz provides evidence-based care to address emotional struggles, relationship challenges, and life transitions. Each session is thoughtfully designed to guide you toward resilience, clarity, and long-lasting well-being.</p>
                             </div>
                             <div class="inner-box">
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12 single-column">
                                         <div class="single-item p_relative d_block">
                                             <div class="upper-box">
-                                                <div class="icon-box g_color"><i class="icon-27"></i></div>
-                                                <h5>Profit Sharing</h5>
+                                                <div class="icon-box g_color"><i class="fa fa-heart	"></i></div>
+                                                <h5>Personalized Care</h5>
                                             </div>
-                                            <p>Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                                            <p>Every journey is unique. We offer tailored support—therapy, coaching, and groups—where your voice matters and healing comes first.</p>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-12 author-column">
                                         <div class="author-box pl_30">
                                             <figure class="author-thumb"><img src="assets/images/resource/thumb-1.jpg" alt=""></figure>
                                             <figure class="signature"><img src="assets/images/icons/signature-1.png" alt=""></figure>
-                                            <h5>Benjamin Everett</h5>
-                                            <div class="designation"><span>-</span> CEO & Founder</div>
+                                            <h5>Dr. Najmun Riyaz</h5>
+                                            <div class="designation"><span>-</span> CEO & MD, Zehen Global Telepsychiatory</div>
                                         </div>
                                     </div>
                                 </div>
@@ -144,34 +114,13 @@
             <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/progress-bg.jpg);"></div>
             <div class="auto-container">
                 <div class="row clearfix">
-                    <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                    <div class="col-lg-9 col-md-12 col-sm-12 content-column">
                         <div class="content-box">
                             <div class="sec-title">
                                 <h5 class="g_color"><i class="icon-11 g_color"></i>Service Level</h5>
-                                <h2>Our Experience Help You To Grow Up <span>Your Business</span></h2>
-                                <p>Business is the activity of making one's living or making money by producing cumsociis <br>natoque.</p>
-                            </div>
-                            <div class="progress-inner">
-                                <div class="progress-box">
-                                    <div class="single-progress-box p_relative d_block mb_20">
-                                        <h6>Web Development</h6>
-                                        <div class="bar">
-                                            <div class="bar-inner count-bar" data-percent="80%"><div class="count-text">80%</div></div>
-                                        </div>
-                                    </div>
-                                    <div class="single-progress-box p_relative d_block mb_20">
-                                        <h6>UX/ UI Design </h6>
-                                        <div class="bar">
-                                            <div class="bar-inner count-bar" data-percent="70%"><div class="count-text">70%</div></div>
-                                        </div>
-                                    </div>
-                                    <div class="single-progress-box p_relative d_block">
-                                        <h6>Web Design</h6>
-                                        <div class="bar">
-                                            <div class="bar-inner count-bar" data-percent="90%"><div class="count-text">90%</div></div>
-                                        </div>
-                                    </div>
-                                </div>
+                                <h2 style="margin-top: 20px;margin-bottom: 20px;">Our Expertise Helps You <span>Heal & Grow</span> In Life</h2>
+                                <p>Mental health is not just about overcoming struggles—it’s about discovering strength, balance, and clarity. Dr. Najmun Riyaz offers compassionate, evidence-based care that supports individuals, couples, and families in navigating life’s challenges.</p> <br>
+                                <p>Whether you’re dealing with stress, anxiety, depression, or relationship issues, our services are designed to empower you with tools for lasting change. Each step is guided by a deep commitment to your healing and growth.</p>
                             </div>
                         </div>
                     </div>
@@ -244,13 +193,13 @@
                     <div class="row align-items-center clearfix">
                         <div class="col-lg-6 col-md-12 col-sm-12 title-column">
                             <div class="sec-title">
-                                <h5 class="g_color"><i class="icon-11 g_color"></i>Customer says</h5>
-                                <h2>What People Say</h2>
+                                <h5 class="g_color"><i class="icon-11 g_color"></i>What People Say</h5>
+                                <h2>Guiding Light of Healing</h2>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-12 col-sm-12 text-column">
                             <div class="text">
-                                <p>Business is the activity of making one's living or making money by producing cumsociis <br>natoque.</p>
+                                <p>Dr. Riyaz’s compassion, wisdom, and warmth have helped many find strength, clarity, and hope in their most difficult moments.</p>
                             </div>
                         </div>
                     </div>
@@ -267,7 +216,9 @@
                                         <div class="shape-4" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                                         <div class="shape-5"></div>
                                     </div>
-                                    <div class="all-text"><h5><a href="index-2.html" class="g_color">All Testimonial</a></h5></div>
+                                    <div class="all-text">
+                                        <h5><a href="index-2.html" class="g_color">All Testimonial</a></h5>
+                                    </div>
                                     <ul class="thumb-box clearfix">
                                         <li>
                                             <a class="active" data-slide-index="0" href="#">
@@ -277,7 +228,7 @@
                                         <li>
                                             <a data-slide-index="1" href="#">
                                                 <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
-                                            </a>                                       
+                                            </a>
                                         </li>
                                         <li>
                                             <a data-slide-index="2" href="#">
@@ -294,11 +245,11 @@
                             </div>
                             <div class="col-lg-7 col-md-12 col-sm-12 content-column">
                                 <div class="testimonial-content">
-                                    <h2>Best  Theme for Business</h2>
-                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                    <h2>Insightful and Supportive Sessions</h2>
+                                    <p>I attended two group seminars with Dr. Riyaz, covering topics from insomnia to PTSD. Having faced these struggles myself, her thoughtful guidance truly helped me. She listens deeply and offers practical, caring advice.</p>
                                     <div class="author-info">
                                         <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
-                                        <h5>John Smith, <span class="g_color">Our Customers</span></h5>
+                                        <h5>Neil, <span class="g_color">Seminar Attendee</span></h5>
                                     </div>
                                 </div>
                             </div>
@@ -315,7 +266,9 @@
                                         <div class="shape-4" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                                         <div class="shape-5"></div>
                                     </div>
-                                    <div class="all-text"><h5><a href="index-2.html" class="g_color">All Testimonial</a></h5></div>
+                                    <div class="all-text">
+                                        <h5><a href="index-2.html" class="g_color">All Testimonial</a></h5>
+                                    </div>
                                     <ul class="thumb-box clearfix">
                                         <li>
                                             <a class="active" data-slide-index="0" href="#">
@@ -325,7 +278,7 @@
                                         <li>
                                             <a data-slide-index="1" href="#">
                                                 <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
-                                            </a>                                       
+                                            </a>
                                         </li>
                                         <li>
                                             <a data-slide-index="2" href="#">
@@ -342,11 +295,11 @@
                             </div>
                             <div class="col-lg-7 col-md-12 col-sm-12 content-column">
                                 <div class="testimonial-content">
-                                    <h2>Best  Theme for Business</h2>
-                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                    <h2>Engaging and Informative Seminars</h2>
+                                    <p>I had the privilege of attending a few seminars by Dr. Riyaz. The sessions were interactive, extended beyond the planned time, and were packed with valuable insights. Her patient listening and thoughtful responses made them truly beneficial.</p>
                                     <div class="author-info">
                                         <figure class="author-thumb"><img src="assets/images/resource/testimonial-2.jpg" alt=""></figure>
-                                        <h5>Roman Naznin, <span class="g_color">Our Customers</span></h5>
+                                        <h5>Obaid</h5>
                                     </div>
                                 </div>
                             </div>
@@ -363,7 +316,9 @@
                                         <div class="shape-4" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                                         <div class="shape-5"></div>
                                     </div>
-                                    <div class="all-text"><h5><a href="index-2.html" class="g_color">All Testimonial</a></h5></div>
+                                    <div class="all-text">
+                                        <h5><a href="index-2.html" class="g_color">All Testimonial</a></h5>
+                                    </div>
                                     <ul class="thumb-box clearfix">
                                         <li>
                                             <a class="active" data-slide-index="0" href="#">
@@ -373,7 +328,7 @@
                                         <li>
                                             <a data-slide-index="1" href="#">
                                                 <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
-                                            </a>                                       
+                                            </a>
                                         </li>
                                         <li>
                                             <a data-slide-index="2" href="#">
@@ -390,11 +345,11 @@
                             </div>
                             <div class="col-lg-7 col-md-12 col-sm-12 content-column">
                                 <div class="testimonial-content">
-                                    <h2>Best  Theme for Business</h2>
-                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                    <h2>From Grief to Renewal</h2>
+                                    <p>After losing my mother, I struggled in silence until I joined Dr. Riyaz’s group and one-on-one sessions. She helped me find strength, reconnect with my family, and see my mother’s presence within me. Her sessions changed my life for the better.</p>
                                     <div class="author-info">
                                         <figure class="author-thumb"><img src="assets/images/resource/testimonial-3.jpg" alt=""></figure>
-                                        <h5>Jos Roy, <span class="g_color">Our Customers</span></h5>
+                                        <h5>Adam</h5>
                                     </div>
                                 </div>
                             </div>
@@ -411,7 +366,9 @@
                                         <div class="shape-4" style="background-image: url(assets/images/shape/shape-18.png);"></div>
                                         <div class="shape-5"></div>
                                     </div>
-                                    <div class="all-text"><h5><a href="index-2.html" class="g_color">All Testimonial</a></h5></div>
+                                    <div class="all-text">
+                                        <h5><a href="index-2.html" class="g_color">All Testimonial</a></h5>
+                                    </div>
                                     <ul class="thumb-box clearfix">
                                         <li>
                                             <a class="active" data-slide-index="0" href="#">
@@ -421,7 +378,7 @@
                                         <li>
                                             <a data-slide-index="1" href="#">
                                                 <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-5.png" alt=""></figure>
-                                            </a>                                       
+                                            </a>
                                         </li>
                                         <li>
                                             <a data-slide-index="2" href="#">
@@ -438,11 +395,11 @@
                             </div>
                             <div class="col-lg-7 col-md-12 col-sm-12 content-column">
                                 <div class="testimonial-content">
-                                    <h2>Best  Theme for Business</h2>
-                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
+                                    <h2>Compassionate and Professional Coaching</h2>
+                                    <p>During one of the hardest times of my life, Dr. Riyaz’s coaching lifted me from despair. She combines professionalism with warmth and wisdom, helping me regain belief in myself. I feel fortunate to have been guided by her.</p>
                                     <div class="author-info">
                                         <figure class="author-thumb"><img src="assets/images/resource/testimonial-4.jpg" alt=""></figure>
-                                        <h5>Adam Batlar, <span class="g_color">Our Customers</span></h5>
+                                        <h5>Gigi</h5>
                                     </div>
                                 </div>
                             </div>
@@ -589,15 +546,16 @@
             </div>
         </div>
         <!-- Scroll to top end -->
-        
+
     </div>
 
-<?php 
+    <?php
     include "assets/includes/scripts.php";
-?>
+    ?>
 
     <script src="assets/js/isotope.js"></script>
 
 
 </body><!-- End of .page_wrapper -->
+
 </html>

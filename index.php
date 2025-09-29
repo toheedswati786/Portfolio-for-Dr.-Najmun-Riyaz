@@ -6,7 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-
+<style>
+    .new-hr{
+        margin:105px;
+    }
+    @media screen and (max-width: 504px){
+        .new-hr{
+            margin:50px;
+        } 
+    }
+</style>
 
     <?php
     include "assets/includes/links.php";
@@ -243,7 +252,7 @@
                                 <div class="content-box">
                                     <figure class="image-box"><img src="assets/images/service/service-1.jpg" alt=""></figure>
                                     <div class="text">
-                                        <div class="icon-box"><i class="fa fa-brain"></i></div>
+                                        <div class="icon-box"><i class="fas fa-brain"></i></div>
                                         <h3>Psychiatry & Therapy</h3>
                                     </div>
                                 </div>
@@ -587,7 +596,7 @@
 
 
         <!-- cta-section -->
-        <section class="cta-section">   
+        <section class="cta-section">
             <div class="auto-container">
                 <div class="inner-container" style="background-image: url(assets/images/background/cta-bg.jpg);">
                     <div class="inner-box">
@@ -604,73 +613,7 @@
         </section>
         <!-- cta-section end -->
 
-
-        <!-- news-section -->
-        <section class="news-section">
-            <div class="shape" style="background-image: url(assets/images/shape/shape-11.png);"></div>
-            <div class="auto-container">
-                <div class="sec-title centred">
-                    <h5 class="g_color"><i class="icon-11 g_color"></i>LATEST INSIGHTS</h5>
-                    <h2>Explore the Blog</h2>
-                    <p>Practical tips and reflections on mental health, resilience,<br> and personal growth.</p>
-                </div>
-                <div class="row clearfix">
-                    <div class="col-lg-12 col-md-12 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <div class="image-box">
-                                    <span class="post-date">FAB 8, 2022</span>
-                                    <figure class="image"><a href="blog-details.html"><img src="assets/images/news/news-1.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="lower-content">
-                                    <div class="author-box">
-                                        <figure class="author-thumb"><img src="assets/images/news/author-4.jpg" alt=""></figure>
-                                        <h6 class="g_color">Jarina walmart</h6>
-                                    </div>
-                                    <h2><a href="blog-details.html">Five Takes on Sustainability Revolution in <br>business.</a></h2>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12 col-sm-12 news-block">
-                        <div class="news-block-two wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-2.jpg" alt=""></a></figure>
-                                <div class="content-box">
-                                    <ul class="post-info clearfix">
-                                        <li class="author-box">
-                                            <figure class="author-thumb"><img src="assets/images/news/author-2.jpg" alt=""></figure>
-                                            <h6>Jarina walmart</h6>
-                                        </li>
-                                        <li class="g_color post-date">FAB 8, 2022</li>
-                                    </ul>
-                                    <h5><a href="blog-details.html">Five Takes on ustainability Revolution ...</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12 col-sm-12 news-block">
-                        <div class="news-block-two wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-3.jpg" alt=""></a></figure>
-                                <div class="content-box">
-                                    <ul class="post-info clearfix">
-                                        <li class="author-box">
-                                            <figure class="author-thumb"><img src="assets/images/news/author-3.jpg" alt=""></figure>
-                                            <h6>Jarina walmart</h6>
-                                        </li>
-                                        <li class="g_color post-date">FAB 8, 2022</li>
-                                    </ul>
-                                    <h5><a href="blog-details.html">Beacome a part of <br>success ...</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- news-section end -->
-
+        <hr class="new-hr">
 
         <!-- subscribe-section -->
         <section class="subscribe-section">

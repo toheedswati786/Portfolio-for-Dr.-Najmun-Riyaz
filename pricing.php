@@ -1,42 +1,44 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 
-<?php 
+    <?php
     include "assets/includes/links.php";
-?>
+    ?>
 
 </head>
 
 
 <!-- page wrapper -->
+
 <body>
 
     <div class="boxed_wrapper">
 
 
         <!-- preloader -->
-        <?php 
-                include "assets/includes/loader.php";
-            ?>
+        <?php
+        include "assets/includes/loader.php";
+        ?>
         <!-- preloader end -->
 
 
         <!-- main header -->
-<?php 
-    include "assets/includes/header.php";
-?>
+        <?php
+        include "assets/includes/header.php";
+        ?>
         <!-- main-header end -->
 
         <!-- Mobile Menu  -->
         <div class="mobile-menu">
             <div class="menu-backdrop"></div>
             <div class="close-btn"><i class="fas fa-times"></i></div>
-            
+
             <nav class="menu-box">
                 <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
@@ -81,7 +83,7 @@
 
 
         <!-- pricing-section -->
-        <section class="pricing-section pricing-page"> 
+        <section class="pricing-section pricing-page">
             <div class="outer-container">
                 <div class="auto-container">
                     <div class="upper-title">
@@ -331,15 +333,16 @@
             </div>
         </div>
         <!-- Scroll to top end -->
-        
+
     </div>
 
 
 
     <script src="assets/js/isotope.js"></script>
-<?php 
+    <?php
     include "assets/includes/scripts.php";
-?>
+    ?>
 
 </body><!-- End of .page_wrapper -->
+
 </html>

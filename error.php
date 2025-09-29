@@ -1,36 +1,46 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 
 
-<?php 
+    <?php
     include "assets/includes/links.php";
-?>
+    ?>
 
 </head>
 
 
 <!-- page wrapper -->
+
 <body>
 
     <div class="boxed_wrapper">
 
 
         <!-- preloader -->
-        <?php 
-                include "assets/includes/loader.php";
-            ?>
+        <?php
+        include "assets/includes/loader.php";
+        ?>
         <!-- preloader end -->
 
-
         <!-- error-section -->
-<?php 
-    include "assets/includes/header.php";
-?>
+        <section class="error-section centred">
+            <div class="auto-container">
+                <div class="inner-box">
+                    <figure class="error-image"><img src="assets/images/icons/error-1.png" alt=""></figure>
+                    <h2>Oh -No!</h2>
+                    <h1 class="g_color">404</h1>
+                    <h3>Sorry We Can't Find That Page!</h3>
+                    <p>We're not being able to find the page you're looking for.</p>
+                    <a href="index.php" class="theme-btn btn-one"><i class="icon-7"></i>Back To Home</a>
+                </div>
+            </div>
+        </section>
         <!-- error-section end -->
 
 
@@ -192,15 +202,16 @@
             </div>
         </div>
         <!-- Scroll to top end -->
-        
+
     </div>
 
-<?php 
+    <?php
     include "assets/includes/scripts.php";
-?>
+    ?>
 
     <script src="assets/js/isotope.js"></script>
 
 
 </body><!-- End of .page_wrapper -->
+
 </html>

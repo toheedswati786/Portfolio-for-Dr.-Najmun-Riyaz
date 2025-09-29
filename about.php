@@ -1,43 +1,45 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 
-<?php 
+    <?php
     include "assets/includes/links.php";
-?>
+    ?>
 
 </head>
 
 
 <!-- page wrapper -->
+
 <body>
 
     <div class="boxed_wrapper">
 
 
         <!-- preloader -->
-        <?php 
-                include "assets/includes/loader.php";
-            ?>
+        <?php
+        include "assets/includes/loader.php";
+        ?>
         <!-- preloader end -->
 
 
         <!-- main header -->
 
-<?php 
-                include "assets/includes/header.php";
-            ?>
+        <?php
+        include "assets/includes/header.php";
+        ?>
         <!-- main-header end -->
 
         <!-- Mobile Menu  -->
         <div class="mobile-menu">
             <div class="menu-backdrop"></div>
             <div class="close-btn"><i class="fas fa-times"></i></div>
-            
+
             <nav class="menu-box">
                 <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
@@ -63,14 +65,10 @@
 
 
         <!-- Page Title -->
-        <section class="page-title-two centred">
+        <section class="page-title-two centred" style="margin-bottom: 30px;">
             <div class="auto-container">
                 <div class="content-box">
-                    <h1>aBOUT creative</h1>
-                    <ul class="bread-crumb clearfix">
-                        <li><a href="index.html">Home</a></li>
-                        <li>About Creative</li>
-                    </ul>
+                    <h1>aBOUT Dr. Riyaz</h1>
                 </div>
             </div>
         </section>
@@ -97,8 +95,8 @@
                                 <div class="video-btn">
                                     <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&t=28s" class="lightbox-image" data-caption=""><i class="icon-10"></i></a>
                                 </div>
-                                <h2>We Help Our Clients To Grow Up your business</h2>
-                                <p>Research oriented solutions for Data Science  and Machine Learning business needs.</p>
+                                <h2>Empowering Minds, Inspiring Change</h2>
+                                <p>Dr. Najmun Riyaz is committed to guiding individuals and organizations toward mental clarity, emotional well-being, and lasting resilience. Through psychiatry, wellness coaching, and education, her work blends science, compassion, and holistic care.</p>
                             </div>
                             <div class="inner-box">
                                 <div class="single-item">
@@ -106,14 +104,14 @@
                                         <div class="icon g_color"><i class="icon-8"></i></div>
                                     </div>
                                     <h3>Our Mission</h3>
-                                    <p>We don't pursue e very company that needs computer support.</p>
+                                    <p>To deliver compassionate care and coaching that helps people heal, grow, and build resilience.</p>
                                 </div>
                                 <div class="single-item">
                                     <div class="icon-box">
                                         <div class="icon g_color"><i class="icon-9"></i></div>
                                     </div>
                                     <h3>Our Vision</h3>
-                                    <p>We don't pursue e very company that needs computer support.</p>
+                                    <p>A world where mental health is valued and every person thrives with balance and purpose.</p>
                                 </div>
                             </div>
                         </div>
@@ -122,52 +120,15 @@
             </div>
         </section>
         <!-- about-style-three end -->
-
-
-        <!-- funfact-style-two -->
-        <section class="funfact-style-two">
-            <div class="auto-container">
-                <div class="inner-container">
-                    <div class="funfact-block-two">
-                        <div class="inner-box">
-                            <div class="icon-box"><i class="icon-27"></i></div>
-                            <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="12">0</span><span>k</span>
-                            </div>
-                            <h5>happy clients</h5>
-                        </div>
-                    </div>
-                    <div class="funfact-block-two">
-                        <div class="inner-box">
-                            <div class="icon-box"><i class="icon-29"></i></div>
-                            <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="400">0</span>
-                            </div>
-                            <h5>employees</h5>
-                        </div>
-                    </div>
-                    <div class="funfact-block-two">
-                        <div class="inner-box">
-                            <div class="icon-box"><i class="icon-30"></i></div>
-                            <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="9">0</span><span>+</span>
-                            </div>
-                            <h5>offices in 9 counties</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- funfact-style-two end -->
-
+<hr>
 
         <!-- project-style-two -->
-        <section class="project-style-two"> 
+        <section class="project-style-two">
             <div class="outer-container">
                 <div class="sec-title centred">
-                    <h5 class="g_color"><i class="icon-11 g_color"></i>Clients are happy for our work</h5>
-                    <h2>We do according to our Best</h2>
-                    <p>Business is the activity of making one's living or making money by <br>producing cumsociis natoque.</p>
+                    <h5 class="g_color"><i class="icon-11 g_color"></i>LATEST INSIGHTS</h5>
+                    <h2>Explore the Blog</h2>
+                    <p>Practical tips and reflections on mental health, resilience, <br>and personal growth.</p>
                 </div>
                 <div class="project-carousel owl-carousel owl-theme owl-dots-none">
                     <div class="project-block-two">
@@ -231,199 +192,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="more-text centred">
-                    <h3>You Can To Look Our <a href="portfolio.html">All Projects</a></h3>
-                </div>
             </div>
         </section>
         <!-- project-style-two end -->
 
 
-        <!-- contact-section -->
-        <section class="contact-section alternat-2">
-            <div class="auto-container">
-                <div class="inner-container">
-                    <div class="shape-2" style="background-image: url(assets/images/shape/shape-29.png);"></div>
-                    <div class="row clearfix">
-                        <div class="col-lg-7 col-md-12 col-sm-12 content-column">
-                            <div class="content-box d_block mr_30">
-                                <div class="sec-title">
-                                    <h5 class="g_color"><i class="icon-11 g_color"></i>Top Services</h5>
-                                    <h2>Choice Our Service</h2>
-                                    <p>I would like to discuss:</p>
-                                </div>
-                                <div class="form-inner">
-                                    <form action="index.html" method="post">
-                                        <div class="row clearfix">
-                                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                                <div class="select-box">
-                                                    <select class="wide">
-                                                       <option data-display="Business Analysis">Business Analysis</option>
-                                                       <option value="1">Business Planning</option>
-                                                       <option value="2">Profit Sharing</option>
-                                                       <option value="3">Success Aquracy</option>
-                                                       <option value="4">Sales & Report</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                                <i class="icon-17"></i>
-                                                <input type="text" name="name" placeholder="Name" required="">
-                                            </div>
-                                            <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                                <i class="icon-18"></i>
-                                                <input type="text" name="phone" placeholder="Phone" required="">
-                                            </div>
-                                            <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                                <i class="icon-19"></i>
-                                                <input type="email" name="email" placeholder="Email" required="">
-                                            </div>
-                                            <div class="col-lg-12 col-md-12 col-sm-12 message-btn">
-                                                <button type="submit" class="theme-btn btn-one"><i class="icon-7"></i>Let's Get To Work</button>
-                                            </div>
-                                        </div>
-                                    </form>
-                                    <div class="support-box">
-                                        <h6><i class="icon-2"></i><a href="tel:+88123456987231">+88 12345 6987 231</a></h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-5 col-md-12 col-sm-12 image-column">
-                            <div class="image-box">
-                                <div class="location-box">
-                                    <div class="icon"><i class="icon-23"></i></div>
-                                    <span>Location:</span>
-                                    <h6>12/A, Pk House New York, US</h6>
-                                </div>
-                                <figure class="image"><img src="assets/images/resource/contact-2.jpg" alt=""></figure>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- contact-section end -->
-
-
-        <!-- testimonial-section -->
-        <section class="testimonial-section about-page-2 centred">
-            <div class="shape">
-                <div class="shape-1" style="background-image: url(assets/images/shape/shape-9.png);"></div>
-            </div>
-            <div class="auto-container">
-                <div class="sec-title">
-                    <h5 class="g_color"><i class="icon-11 g_color"></i>Testimonial</h5>
-                    <h2>Our Happy Clients Says?</h2>
-                    <p>Business is the activity of making one's living or making money by <br>producing cumsociis natoque.</p>
-                </div>
-                <div class="bxslider">
-                    <div class="slider-content">
-                        <div class="slider-pager">
-                            <ul class="thumb-box clearfix">
-                                <li>
-                                    <a class="active" data-slide-index="0" href="#">
-                                        <figure class="thumb thumb-1"><span>“</span><img src="assets/images/resource/thumb-1.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="1" href="#">
-                                        <figure class="thumb thumb-2"><span>“</span><img src="assets/images/resource/thumb-2.png" alt=""></figure>
-                                    </a>                                       
-                                </li>
-                                <li>
-                                    <a data-slide-index="2" href="#">
-                                        <figure class="thumb thumb-3"><span>“</span><img src="assets/images/resource/thumb-3.png" alt=""></figure>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="testimonial-content">
-                            <ul class="rating-box clearfix">
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                            </ul>
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
-                            <div class="author-info">
-                                <h5>John Smith, <span class="g_color">Our Customers</span></h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slider-content">
-                        <div class="slider-pager">
-                            <ul class="thumb-box clearfix">
-                                <li>
-                                    <a class="active" data-slide-index="0" href="#">
-                                        <figure class="thumb thumb-1"><span>“</span><img src="assets/images/resource/thumb-1.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="1" href="#">
-                                        <figure class="thumb thumb-2"><span>“</span><img src="assets/images/resource/thumb-2.png" alt=""></figure>
-                                    </a>                                       
-                                </li>
-                                <li>
-                                    <a data-slide-index="2" href="#">
-                                        <figure class="thumb thumb-3"><span>“</span><img src="assets/images/resource/thumb-3.png" alt=""></figure>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="testimonial-content">
-                            <ul class="rating-box clearfix">
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                            </ul>
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
-                            <div class="author-info">
-                                <h5>Michel Joi, <span class="g_color">Our Customers</span></h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slider-content">
-                        <div class="slider-pager">
-                            <ul class="thumb-box clearfix">
-                                <li>
-                                    <a class="active" data-slide-index="0" href="#">
-                                        <figure class="thumb thumb-1"><span>“</span><img src="assets/images/resource/thumb-1.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="1" href="#">
-                                        <figure class="thumb thumb-2"><span>“</span><img src="assets/images/resource/thumb-2.png" alt=""></figure>
-                                    </a>                                       
-                                </li>
-                                <li>
-                                    <a data-slide-index="2" href="#">
-                                        <figure class="thumb thumb-3"><span>“</span><img src="assets/images/resource/thumb-3.png" alt=""></figure>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="testimonial-content">
-                            <ul class="rating-box clearfix">
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                            </ul>
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
-                            <div class="author-info">
-                                <h5>Alex Jhon, <span class="g_color">Our Customers</span></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- testimonial-section end -->
 
 
         <!-- main-footer -->
@@ -520,13 +293,14 @@
             </div>
         </div>
         <!-- Scroll to top end -->
-        
+
     </div>
 
 
-<?php 
+    <?php
     include "assets/includes/scripts.php";
-?>
+    ?>
 
 </body><!-- End of .page_wrapper -->
+
 </html>
