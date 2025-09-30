@@ -25,7 +25,7 @@
                                         <a href="about.php">About US</a>
                                     </li>
                                     <li>
-                                        <a href="blog.php">Blog</a>
+                                        <a href="blog.html">Blog</a>
                                     </li>  
                                     <li>
                                         <a href="pricing.php">Pricing</a>
