@@ -627,7 +627,7 @@
                     <div class="col-lg-7 col-md-12 col-sm-12 form-column">
                         <div class="form-inner">
                             <div class="form-group">
-                                    <form action="contact.php" method="GET">
+                                <form action="contact.php" method="POST">
                                     <input type="email" name="emaail" placeholder="Enter Your Email Adress" required="">
                                     <button class="theme-btn btn-one"><i class="icon-7"></i>Subscribe</button>
                                 </form>

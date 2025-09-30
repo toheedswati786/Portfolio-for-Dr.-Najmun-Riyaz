@@ -1,5 +1,5 @@
 ﻿<?php
-if (isset($_POST['emaail']) && !empty(isset{$_POST['emaail']})){
+if (isset($_POST['emaail']) && !empty(isset($_POST['emaail']))){
     $email = $_POST['emaail'];
 }else{
     $email = "";
@@ -106,7 +106,7 @@ if (isset($_POST['emaail']) && !empty(isset{$_POST['emaail']})){
                                                 <input type="text" name="phone" placeholder="Phone" required="">
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                                <input type="email" name="email" placeholder="Email" required="">
+                                                <input type="email" name="email" value="<?php echo $email;?>" placeholder="Email" required="">
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                                 <textarea name="message" placeholder="Write Your Message"></textarea>
@@ -147,7 +147,7 @@ if (isset($_POST['emaail']) && !empty(isset{$_POST['emaail']})){
                     </div>
                     <div class="col-lg-7 col-md-12 col-sm-12 form-column">
                         <div class="form-inner">
-                            <form action="contact.html" method="post">
+                            <form action="contact.php" method="post">
                                 <div class="form-group">
                                     <input type="email" name="emaail" placeholder="Enter Your Email Adress" required="">
                                     <button type="submit" class="theme-btn btn-one"><i class="icon-7"></i>Subscribe</button>

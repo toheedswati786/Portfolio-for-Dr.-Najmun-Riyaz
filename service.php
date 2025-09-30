@@ -422,7 +422,7 @@
                     </div>
                     <div class="col-lg-7 col-md-12 col-sm-12 form-column">
                         <div class="form-inner">
-                            <form action="contact.html" method="post">
+                            <form action="contact.php" method="post">
                                 <div class="form-group">
                                     <form action="">
                                         <input type="email" name="email"id="contact-email" placeholder="Enter Your Email Adress" required="">
