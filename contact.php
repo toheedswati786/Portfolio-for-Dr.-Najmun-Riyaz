@@ -1,4 +1,12 @@
-﻿<!DOCTYPE html>
+﻿<?php
+if (isset($_POST['emaail']) && !empty(isset{$_POST['emaail']})){
+    $email = $_POST['emaail'];
+}else{
+    $email = "";
+}
+?>
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>

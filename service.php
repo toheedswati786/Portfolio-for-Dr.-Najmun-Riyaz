@@ -411,22 +411,6 @@
         <!-- testimonial-style-two end -->
 
 
-        <!-- clients-section -->
-        <section class="clients-section service-page-1">
-            <div class="auto-container">
-                <div class="inner-container">
-                    <div class="four-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
-                        <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-1.png" alt=""></a></figure>
-                        <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-2.png" alt=""></a></figure>
-                        <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-3.png" alt=""></a></figure>
-                        <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-4.png" alt=""></a></figure>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- clients-section end -->
-
-
         <!-- subscribe-section -->
         <section class="subscribe-section">
             <div class="auto-container">
@@ -440,8 +424,10 @@
                         <div class="form-inner">
                             <form action="contact.html" method="post">
                                 <div class="form-group">
-                                    <input type="email" name="emaail" placeholder="Enter Your Email Adress" required="">
-                                    <button type="submit" class="theme-btn btn-one"><i class="icon-7"></i>Subscribe</button>
+                                    <form action="">
+                                        <input type="email" name="email"id="contact-email" placeholder="Enter Your Email Adress" required="">
+                                        <button type="submit" onclick="submitForm()" class="theme-btn btn-one"><i class="icon-7"></i>Subscribe</button>
+                                    </form>
                                 </div>
                             </form>
                         </div>
@@ -450,7 +436,14 @@
             </div>
         </section>
         <!-- subscribe-section end -->
-
+      <script>
+        function submitForm() {
+          var emailContainer = document.getElementById("contact-email");
+          var value = emailContainer.value;
+          window.location.href =
+            "contact.php?email=" + encodeURIComponent(value);
+        }
+      </script>
 
         <!-- main-footer -->
         <?php
