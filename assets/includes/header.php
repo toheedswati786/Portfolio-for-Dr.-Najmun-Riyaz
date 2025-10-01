@@ -23,10 +23,7 @@
                                     </li>
                                     <li >
                                         <a href="about.php">About US</a>
-                                    </li>
-                                    <li>
-                                        <a href="blog.html">Blog</a>
-                                    </li>  
+                                    </li> 
                                     <li>
                                         <a href="pricing.php">Pricing</a>
                                     </li>  

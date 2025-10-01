@@ -1,145 +1,145 @@
 /* template-color */
 
 .handle-preloader{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .preloader-close{
-	color: #e4a196;
+	color: #894198;
 }
 
 .scroll-to-top .scroll-bar-text{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .header-top{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .header-top:before{
-	background: #e4a196;
+	background: #894198;
 }
 
 .header-top .right-column .social-links li a:before{
-	background: linear-gradient(306.22deg, #ab7cb2 -27.65%, #e4a196 64.42%);
+	background: linear-gradient(306.22deg, #41132b -27.65%, #894198 64.42%);
 }
 
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li:hover > a{
-  color: #e4a196 !important;
+  color: #894198 !important;
 }
 
 .main-menu .navigation > li > ul > li > a:hover,
 .main-menu .navigation > li > .megamenu li > a:hover{
-	color: #e4a196;
+	color: #894198;
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .theme-btn.btn-one{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .theme-btn.btn-one:before{
-	background: linear-gradient(270deg, #e4a196 30%, #ab7cb2 100%);
+	background: linear-gradient(270deg, #894198 30%, #41132b 100%);
 }
 
 .banner-section .content-box h3{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .about-section .image-box .image:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .about-section .upper-title h5{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .about-section .inner-box .single-item .icon-box .icon{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .video-section:before{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .video-section .inner-box .video-btn a{
-	color: #FF6D50;
+	color: #f8c9bb;
 }
 
 .video-section .lower-box .person-box .person li .text span{
-  background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+  background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .video-section .lower-box .support-box h2 a:hover{
-	color: #FF6D50;
+	color: #f8c9bb;
 }
 
 .sec-title h5{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .sec-title h5 i{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .service-block-one .inner-box .text{
-	background: #e4a196;
+	background: #894198;
 }
 
 .service-block-one .inner-box .overlay-content{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .service-section .lower-text h3 a{
-	color: #e4a196;
+	color: #894198;
 }
 
 .working-block-one .inner-box .count-text{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .working-block-one .inner-box .icon-box .icon{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .working-block-one .inner-box:hover .icon-box{
-  border: 2px solid #ab7cb2;
+  border: 2px solid #41132b;
 }
 
 .working-block-one .inner-box h3 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .contact-section .content-box .form-inner .form-group i{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .contact-section .content-box .form-inner .form-group input:focus{
-	border-color: #e4a196 !important;
+	border-color: #894198 !important;
 }
 
 .contact-section .content-box .form-inner .form-group:nth-child(2) i{
-	color: #e4a196;
+	color: #894198;
 }
 
 .contact-section .content-box .form-inner .form-group:nth-child(3) i{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .contact-section .content-box .form-inner .support-box h6 i{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .contact-section .content-box .form-inner .support-box h6 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .contact-section .image-box:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .project-block-one .inner-box:before{
@@ -151,245 +151,245 @@
 }
 
 .project-block-one .inner-box .text .link a i{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .testimonial-section .slider-pager .thumb-box li a .thumb:after{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .testimonial-section .testimonial-content .rating-box li{
-	color: #e4a196;
+	color: #894198;
 }
 
 .testimonial-section .testimonial-content h5{
-	color: #e4a196;
+	color: #894198;
 }
 
 .testimonial-section .testimonial-content h5 span{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .testimonial-section .bx-controls .bx-prev:hover,
 .testimonial-section .bx-controls .bx-next:hover{
-	color: #e4a196;
+	color: #894198;
 }
 
 .cta-section .inner-container:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .news-block-one .inner-box .image-box .post-date{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .news-block-one .inner-box .lower-content .author-box h6{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .news-block-one .inner-box .lower-content h2 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .news-block-two .inner-box .content-box .post-info h6{
-	color: #e4a196;
+	color: #894198;
 }
 
 .news-block-two .inner-box .content-box .post-info li.post-date{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .news-block-two .inner-box .content-box .post-info li:before{
-	background: #e4a196;
+	background: #894198;
 }
 
 .news-block-two .inner-box .content-box h5 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .subscribe-section{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .footer-top:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .footer-top .social-links li a:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .main-footer .widget-title:after{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .main-footer .about-widget .info li:nth-child(2) i{
-  background: #e4a196;
+  background: #894198;
 }
 
 .main-footer .links-widget .links-list li a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .main-footer .gallery-widget .image-list .image{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .main-footer .footer-bottom p a:hover{
-	color: #e4a196;
+	color: #894198;
 }
 
 .main-menu .navigation > li > a:after{
-	background: #e4a196;
+	background: #894198;
 }
 
 .header-style-two .menu-right-content .search-box-outer:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .theme-btn.btn-two{
-	border: 1px solid #e4a196;
+	border: 1px solid #894198;
 }
 
 .theme-btn.btn-two:before{
-	background: #e4a196;
+	background: #894198;
 }
 
 .banner-carousel .content-box h3{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .theme-btn.btn-three{
-	background: #e4a196;
+	background: #894198;
 }
 
 .banner-carousel .content-box .video-btn a i{
-	color: #e4a196;
+	color: #894198;
 }
 
 .banner-style-two .social-links li a:hover{
-  color: #ab7cb2;
+  color: #41132b;
 }
 
 .weare-section .single-item .inner-box .content-box .icon-box{
-	background: #e4a196;
+	background: #894198;
 }
 
 .weare-section .single-item .inner-box .content-box .link a{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .weare-section .single-item .inner-box .content-box .link a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .weare-section .single-item .inner-box .overlay-content{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .weare-section .single-item .inner-box .overlay-content .icon-box .icon{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .weare-section .lower-text h3 a{
-	color: #e4a196;
+	color: #894198;
 }
 
 .weare-section .single-column:nth-child(2) .single-item .inner-box .content-box .icon-box,
 .weare-section .single-column:nth-child(3) .single-item .inner-box .content-box .icon-box{
-  background: #ab7cb2;
+  background: #41132b;
 }
 
 .about-style-two .image-box:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .about-style-two .sec-title h3{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .about-style-two .content-box .inner-box .list li:nth-child(2) i{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .about-style-two .content-box .inner-box .list li:last-child i{
-	background: #e4a196;
+	background: #894198;
 }
 
 .progress-box .bar-inner{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .progress-box .count-text{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .progress-box .count-text:before{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .funfact-block-one .inner-box .icon-box{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .grow-section .content-box h2 span{
-	color: #e4a196;
+	color: #894198;
 }
 
 .grow-section .inner-box .single-column:nth-child(2) .single-item .icon-box{
-  background: #e4a196;
+  background: #894198;
 }
 
 .grow-section .inner-box .single-column:nth-child(3) .single-item .icon-box{
-  background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+  background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .grow-section .inner-box .single-item h5 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .grow-section .inner-box .single-item:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .faq-section .image-box:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .accordion-box .block.active-block{
-  background: #e4a196;
+  background: #894198;
 }
 
 .faq-section .more-text h3 a{
-	color: #e4a196;
+	color: #894198;
 }
 
 .testimonial-style-two .slider-pager .thumb-box li a:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .testimonial-style-two .slider-pager .all-text h5 a{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .testimonial-style-two .slider-pager .all-text h5 a:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .testimonial-style-two .testimonial-content .author-info h5{
-	color: #e4a196;
+	color: #894198;
 }
 
 .testimonial-style-two .testimonial-content .author-info h5 span{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .team-block-one .inner-box:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .team-block-one .inner-box .social-links{
-	background: linear-gradient(360deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(360deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .team-block-one .inner-box .text{
@@ -397,51 +397,51 @@
 }
 
 .subscribe-section.alternat-2 .inner-container{
-  background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+  background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .header-top-two .language .language-list li a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .header-top-two .info li a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .header-top-two .social-links li a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .header-style-three .header-lower .outer-box{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .header-style-three .header-lower .nav-right .search-box-outer:hover{
-  background: #e4a196;
+  background: #894198;
 }
 
 .clients-section .text p a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .about-style-three .image-box:after{
-	border: 5px solid #FF6D50;
+	border: 5px solid #f8c9bb;
 }
 
 .about-style-three .content-box .video-btn a{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .about-style-three .content-box .single-item .icon-box .icon{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .funfact-block-two .inner-box .icon-box{
-	color: #e4a196;
+	color: #894198;
 }
 
 .project-style-two .more-text h3 a{
-	color: #e4a196;
+	color: #894198;
 }
 
 .tabs-content .team-block-one .inner-box:before{
@@ -449,236 +449,236 @@
 }
 
 .team-section .tab-btn-box .tab-btns{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .weare-style-two .image-box .text{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .weare-style-two .content-box .single-item .icon-box{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .weare-style-two .content-box .single-item:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .weare-style-two .content-box .author-box .designation{
-	color: #e4a196;
+	color: #894198;
 }
 
 .weare-style-two .content-box .author-box:before{
-	background: linear-gradient(360deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(360deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .testimonial-style-three .bg-layer:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .project-style-two .owl-nav button:hover{
-  background: #e4a196;
+  background: #894198;
 }
 
 .testimonial-style-three .testimonial-content .author-box .author-thumb:before{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .news-section .owl-nav button:hover{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .info-block-one .inner-box .icon-box{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .info-block-one .inner-box{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .info-block-one .inner-box:hover{
-  background: #e4a196;
+  background: #894198;
 }
 
 .main-footer .logo-widget .social-links li a:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .header-style-four .outer-box .logo-box .search-box-outer{
-	color: #e4a196;
+	color: #894198;
 }
 
 .header-style-four .outer-box .logo-box .search-box-outer:hover{
-  background: #e4a196;
+  background: #894198;
 }
 
 
 .sidebar-info-contents .content-inner .contact-info ul li a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 
 .sidebar-info-contents .content-inner .social-box li a:hover{
-  background: #e4a196;
-  border-color: #e4a196;
+  background: #894198;
+  border-color: #894198;
 }
 
 .header-style-four .menu-area .nav-btn{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .banner-style-four .image-box:before{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .about-style-four .content-box .sec-title h3{
-	color: #e4a196;
+	color: #894198;
 }
 
 .wedo-block-one .inner-box .icon-box{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .wedo-block:nth-child(3) .wedo-block-one .inner-box .icon-box{
-  background: #e4a196;
+  background: #894198;
 }
 
 .wedo-block-one .inner-box h5 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .wedo-block-one .inner-box .link a{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .wedo-block-one .inner-box .link a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .progress-section .image-box:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .project-block-three .inner-box .content-box h5 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 
 .pricing-block-one .pricing-table .table-header span{
-	color: #e4a196;
+	color: #894198;
 }
 
 .pricing-block-one .pricing-table .table-header .icon-box{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .pricing-block-one .pricing-table .table-footer .theme-btn.btn-one{
-  background: #ab7cb2;
+  background: #41132b;
 }
 
 .pricing-block-one .pricing-table .table-footer .theme-btn.btn-one:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .pricing-block:nth-child(2) .pricing-block-one .pricing-table .table-header .icon-box{
-	background: #e4a196;
+	background: #894198;
 }
 
 .pricing-block:last-child .pricing-block-one .pricing-table .table-header .icon-box{
-  background: #ab7cb2;
+  background: #41132b;
 }
 
 .news-block-three .inner-box .lower-content .post-info li.author-box{
-	color: #e4a196;
+	color: #894198;
 }
 
 .news-block-three .inner-box .lower-content .post-info li.post-date{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .news-block-three .inner-box .lower-content .post-info li:before{
-	background: #e4a196;
+	background: #894198;
 }
 
 .news-block-three .inner-box .lower-content h5 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .news-block-three .inner-box .lower-content:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .main-footer .newsletter-widget .widget-content form .form-group input:focus{
-  border-color: #e4a196 !important;
+  border-color: #894198 !important;
 }
 
 .page-title .content-box .bread-crumb li a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .about-style-five .image-box:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .about-style-five .content-box .content-inner .list li:nth-child(2) i{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .about-style-five .content-box .content-inner .list li:last-child i{
-	background: #e4a196;
+	background: #894198;
 }
 
 .page-title-two .content-box .bread-crumb li a:hover{
-	color: #e4a196;
+	color: #894198;
 }
 
 .team-details .left-content .progress-inner h3{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .team-details .right-content .upper-box span{
-	color: #e4a196;
+	color: #894198;
 }
 
 .team-details .right-content .form-inner .form-group input:focus{
-	border-color: #e4a196 !important;
+	border-color: #894198 !important;
 }
 
 .team-details .right-content .form-inner .form-group:nth-child(2) i{
-	color: #e4a196;
+	color: #894198;
 }
 
 .team-details .right-content .form-inner .form-group:nth-child(3) i{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .project-page-section .filter-tabs li:hover,
 .project-page-section .filter-tabs li.active{
-  color: #e4a196;
+  color: #894198;
 }
 
 .faq-sidebar h5:after{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .faq-sidebar .text a{
-  background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+  background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .faq-sidebar .text a:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .faq-sidebar form .form-group input:focus{
-  border-color: #e4a196 !important;
+  border-color: #894198 !important;
 }
 
 .comingsoon-section .cs-countdown .count-col{
-	background: #e4a196;
+	background: #894198;
 }
 
 .comingsoon-section .cs-countdown .count-col:nth-child(2){
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .comingsoon-section .cs-countdown .count-col:nth-child(3){
@@ -690,203 +690,203 @@
 }
 
 .error-section .inner-box h2{
-	color: #e4a196;
+	color: #894198;
 }
 
 .error-section .inner-box h1{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .error-section .inner-box p{
-	color: #ab7cb2;
+	color: #41132b;
 }
 
 .progress-style-two .content-box .sec-title h2 span{
-  color: #e4a196;
+  color: #894198;
 }
 
 .wedo-block:nth-child(8) .wedo-block-one .inner-box .icon-box {
-  background: #e4a196;
+  background: #894198;
 }
 
 .service-sidebar .category-widget{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .pagination li a:hover,
 .pagination li a.current{
-	background: #e4a196;
+	background: #894198;
 }
 
 .blog-details-content .content-one .lower-content .post-info li.author-box {
-  color: #e4a196;
+  color: #894198;
 }
 
 .blog-details-content .content-one .lower-content .post-info li.post-date {
-  background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+  background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .blog-details-content .content-one .lower-content .post-info li:before{
-	background: #e4a196;
+	background: #894198;
 }
 
 .blog-details-content .owl-nav button:hover{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .blog-details-content .content-three .single-item .icon-box .icon{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .blog-details-content .content-three blockquote{
-	background: #e4a196;
+	background: #894198;
 }
 
 .blog-details-content .content-four .list li:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .blog-details-content .nav-btn .single-btn a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .blog-details-content .comment-box .comment .reply-btn:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .blog-sidebar .search-widget .form-group input:focus{
-  border-color: #e4a196 !important;
+  border-color: #894198 !important;
 }
 
 .blog-sidebar .widget-title:after{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .blog-sidebar .category-widget .category-list li a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .blog-sidebar .post-inner .post .post-info li{
-	color: #e4a196;
+	color: #894198;
 }
 
 .blog-sidebar .post-inner .post .post-info li.post-date{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .blog-sidebar .post-inner .post .post-info li:before{
-	background: #e4a196;
+	background: #894198;
 }
 
 .blog-sidebar .post-inner .post h6 a:hover{
-  color: #e4a196;
+  color: #894198;
 }
 
 .blog-sidebar .gallery-widget .image-list li .image{
-	background: #e4a196;
+	background: #894198;
 }
 
 .contact-section.contact-page .content-box .form-group textarea:focus{
-  border-color: #e4a196;
+  border-color: #894198;
 }
 
 .contact-section .info-box .info li:nth-child(2) i{
-	background: #e4a196;
+	background: #894198;
 }
 
 .banner-section .owl-nav button:hover{
-  border-color: #e4a196;
-  background: #e4a196;
+  border-color: #894198;
+  background: #894198;
 }
 
 
 /** home-5 color css **/
 
 .header-style-five .header-top-two .info li a:hover{
-	color: #e4a196;
+	color: #894198;
 }
 
 .header-style-five .header-top-two .info li i{
-	color: #e4a196;
+	color: #894198;
 }
 
 .header-style-five .header-top-two .social-links li a:before{
-	background: linear-gradient(306.22deg, #ab7cb2 -27.65%, #e4a196 64.42%);
+	background: linear-gradient(306.22deg, #41132b -27.65%, #894198 64.42%);
 }
 
 .header-style-five .header-lower .main-box .outer-box .btn-box a:hover{
-	color: #e4a196;
+	color: #894198;
 }
 
 .about-style-two.home-five .content-box .inner-box .list li i{
-	background: #e4a196;
+	background: #894198;
 }
 
 .about-style-two.home-five .content-box .theme-btn:before{
-	background: #e4a196;
+	background: #894198;
 }
 
 .about-style-two.home-five .content-box .theme-btn.btn-three:hover{
-	background: #e4a196;
+	background: #894198;
 }
 
 .feature-block-two .inner-box .lower-content .icon-box{
-	background: #e4a196;
+	background: #894198;
 }
 
 .feature-block-two .inner-box .lower-content h3 a:hover{
-	color: #e4a196;
+	color: #894198;
 }
 
 .service-block-two .inner-box h5 a:hover{
-	color: #e4a196;
+	color: #894198;
 }
 
 .testimonial-block-one .inner-box .author-box .rating-box li{
-	color: #e4a196;
+	color: #894198;
 }
 
 .testimonial-block-one .inner-box .author-box h5{
-	color: #e4a196;
+	color: #894198;
 }
 
 .testimonial-style-four .owl-theme .owl-dots .owl-dot.active span,
 .testimonial-style-four .owl-theme .owl-dots .owl-dot span:hover{
-	border-color: #e4a196;
+	border-color: #894198;
 }
 
 .testimonial-block-one .inner-box:before{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .funfact-style-three .title-text h2 span{
-	color: #e4a196;
+	color: #894198;
 }
 
 .benefits-section .lower-box .single-item:before{
-	background: #e4a196;
+	background: #894198;
 }
 
 .benefits-section .lower-box .single-item .icon-box{
-	background: #e4a196;
+	background: #894198;
 }
 
 .pricing-block-two .pricing-table .table-header .icon-box{
-	background: linear-gradient(270deg, #ab7cb2 -22.92%, #e4a196 56.63%);
+	background: linear-gradient(270deg, #41132b -22.92%, #894198 56.63%);
 }
 
 .pricing-block-two .pricing-table .table-header p{
-	color: #e4a196;
+	color: #894198;
 }
 
 .pricing-block:nth-child(2) .pricing-block-two .pricing-table .table-header .icon-box{
-	background: #e4a196;
+	background: #894198;
 }
 
 .pricing-block:last-child .pricing-block-two .pricing-table .table-header .icon-box{
-	background: #ab7cb2;
+	background: #41132b;
 }
 
 .news-block-three .inner-box:hover .lower-content .link a{
-	color: #e4a196;
+	color: #894198;
 }

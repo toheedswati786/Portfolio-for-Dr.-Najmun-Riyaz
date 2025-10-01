@@ -47,32 +47,26 @@
 
         <!-- banner-section -->
         <section class="banner-section">
-            <div class="pattern-layer">
+            <!-- <div class="pattern-layer">
                 <div class="pattern-1" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                <div class="pattern-2" style="background-image: url(assets/images/shape/shape-12.png);"></div>
-            </div>
-            <div class="banner-carousel owl-theme owl-carousel owl-dots-none">
+            </div> -->
+            <div class="banner-carousel owl-theme owl-carousel owl-dots-none owl-nav-none">
                 <div class="slide-item">
                     <div class="vector-shape">
-                        <div class="vector-img-1"><img src="assets/images/icons/icon-1.png" alt=""></div>
-                        <div class="vector-img-2"><img src="assets/images/icons/icon-2.png" alt=""></div>
                         <div class="vector-img-3"><img src="assets/images/icons/icon-3.png" alt=""></div>
                         <div class="vector-img-4"><img src="assets/images/icons/icon-4.png" alt=""></div>
                         <div class="vector-img-5"><img src="assets/images/icons/icon-5.png" alt=""></div>
                         <div class="vector-img-6"><img src="assets/images/icons/icon-6.png" alt=""></div>
                         <div class="vector-img-7"><img src="assets/images/shape/shape-45.png" alt=""></div>
                     </div>
-                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" alt=""></figure>
+                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: 50px;" alt=""></figure>
                     <div class="outer-container">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                                 <div class="content-box">
                                     <h3>HEAL YOUR MIND</h3>
-                                    <h2>Compassionate Psychiatry & Therapy</h2>
-                                    <p>Evidence-based care blended with empathy to help you heal from anxiety, depression, and trauma.</p>
-                                    <div class="btn-box">
-                                        <a href="index.html" class="theme-btn btn-one"><i class="icon-7"></i>Our Services</a>
-                                    </div>
+                                    <h2>Empowering Minds</h2>
+                                    <p>A psychiatrist on a mission to break stigma on mental health <p>Empowering Minds helps individuals take charge of their mental well-being. Led by a compassionate psychiatrist, it breaks mental health stigma, offers support, and inspires personal growth through education and awareness.</p></p>
                                 </div>
                             </div>
                         </div>
@@ -80,25 +74,20 @@
                 </div>
                 <div class="slide-item">
                     <div class="vector-shape">
-                        <div class="vector-img-1"><img src="assets/images/icons/icon-1.png" alt=""></div>
-                        <div class="vector-img-2"><img src="assets/images/icons/icon-2.png" alt=""></div>
                         <div class="vector-img-3"><img src="assets/images/icons/icon-3.png" alt=""></div>
                         <div class="vector-img-4"><img src="assets/images/icons/icon-4.png" alt=""></div>
                         <div class="vector-img-5"><img src="assets/images/icons/icon-5.png" alt=""></div>
                         <div class="vector-img-6"><img src="assets/images/icons/icon-6.png" alt=""></div>
                         <div class="vector-img-7"><img src="assets/images/shape/shape-45.png" alt=""></div>
                     </div>
-                    <figure class="image-layer"><img src="assets/images/banner/banner-img-4.png" alt=""></figure>
+                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: 50px;" alt=""></figure>
                     <div class="outer-container">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                                 <div class="content-box">
-                                    <h3>BUILD RESILIENCE</h3>
-                                    <h2>Wellness Coaching for a Balanced Life</h2>
-                                    <p>Learn tools to manage stress, nurture self-care, and create emotional strength in everyday living.</p>
-                                    <div class="btn-box">
-                                        <a href="index.html" class="theme-btn btn-one"><i class="icon-7"></i>Our Services</a>
-                                    </div>
+                                    <h3>HEAL YOUR MIND</h3>
+                                    <h2>Empowering Minds</h2>
+                                    <p>A psychiatrist on a mission to break stigma on mental health <p>Empowering Minds helps individuals take charge of their mental well-being. Led by a compassionate psychiatrist, it breaks mental health stigma, offers support, and inspires personal growth through education and awareness.</p></p>
                                 </div>
                             </div>
                         </div>
@@ -106,25 +95,20 @@
                 </div>
                 <div class="slide-item">
                     <div class="vector-shape">
-                        <div class="vector-img-1"><img src="assets/images/icons/icon-1.png" alt=""></div>
-                        <div class="vector-img-2"><img src="assets/images/icons/icon-2.png" alt=""></div>
                         <div class="vector-img-3"><img src="assets/images/icons/icon-3.png" alt=""></div>
                         <div class="vector-img-4"><img src="assets/images/icons/icon-4.png" alt=""></div>
                         <div class="vector-img-5"><img src="assets/images/icons/icon-5.png" alt=""></div>
                         <div class="vector-img-6"><img src="assets/images/icons/icon-6.png" alt=""></div>
                         <div class="vector-img-7"><img src="assets/images/shape/shape-45.png" alt=""></div>
                     </div>
-                    <figure class="image-layer"><img src="assets/images/banner/banner-img-5.png" alt=""></figure>
+                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: 50px;" alt=""></figure>
                     <div class="outer-container">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                                 <div class="content-box">
-                                    <h3>INSPIRE & EDUCATE</h3>
-                                    <h2>Speaking & Workshops That Transform</h2>
-                                    <p>Engaging talks and trainings on mental health, resilience, and self-compassion for groups and organizations.</p>
-                                    <div class="btn-box">
-                                        <a href="index.html" class="theme-btn btn-one"><i class="icon-7"></i>Our Services</a>
-                                    </div>
+                                    <h3>HEAL YOUR MIND</h3>
+                                    <h2>Empowering Minds</h2>
+                                    <p>A psychiatrist on a mission to break stigma on mental health <p>Empowering Minds helps individuals take charge of their mental well-being. Led by a compassionate psychiatrist, it breaks mental health stigma, offers support, and inspires personal growth through education and awareness.</p></p>
                                 </div>
                             </div>
                         </div>
@@ -160,7 +144,7 @@
                         <div class="image-box">
                             <figure class="image"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
                             <div class="text">
-                                <h2>30+</h2>
+                                <h2>25+</h2>
                                 <h3>Years <br>Experience</h3>
                             </div>
                         </div>
@@ -169,32 +153,11 @@
                         <div class="content-box">
                             <div class="upper-title">
                                 <h5><i class="icon-11"></i>About Dr. Najmun Riyaz</h5>
-                                <h2>Empowering Minds, Inspiring Change</h2>
+                                <h2>Meet Dr. Najmun</h2>
                             </div>
                             <div class="text p_relative mb_100">
-                                <p>Dr. Najmun Riyaz is committed to guiding individuals and organizations toward mental clarity, emotional well-being, and lasting resilience. Through psychiatry, wellness coaching, and education, her work blends science, compassion, and holistic care.</p>
-                            </div>
-                            <div class="inner-box">
-                                <div class="row clearfix">
-                                    <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                                        <div class="single-item p_relative d_block pl_140">
-                                            <div class="icon-box p_absolute l_0 t_0">
-                                                <div class="icon g_color"><i class="icon-8"></i></div>
-                                            </div>
-                                            <h3>Our Mission</h3>
-                                            <p>To deliver compassionate care and coaching that helps people heal, grow, and build resilience.</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                                        <div class="single-item p_relative d_block pl_140">
-                                            <div class="icon-box p_absolute l_0 t_0">
-                                                <div class="icon g_color"><i class="icon-9"></i></div>
-                                            </div>
-                                            <h3>Our Vision</h3>
-                                            <p>A world where mental health is valued and every person thrives with balance and purpose.</p>
-                                        </div>
-                                    </div>
-                                </div>
+                                <p>Dr. Najmun Riyaz is a practicing psychiatrist and certified empowerment coach based in New Jersey. She is the founder of Zehen Global, a virtual telepsychiatry practice dedicated to providing holistic, trauma-informed, and neurodivergent-affirming care for working women. Through Zehen Global, she also leads educational initiatives and community outreach programs focused on mental health awareness, prevention, and stigma reduction — both globally and in South Asia.</p> <br>
+                                <p>As an empowerment coach, Dr. Riyaz helps women heal from toxic relationships and equips them with skills to live authentically and rediscover their true selves through individual and group coaching.</p>
                             </div>
                         </div>
                     </div>
@@ -208,28 +171,13 @@
         <section class="video-section centred">
             <div class="shape" style="background-image: url(assets/images/shape/shape-2.png);"></div>
             <div class="shape-2 float-bob-x" style="background-image: url(assets/images/shape/shape-46.png);"></div>
-            <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/video-bg.jpg);"></div>
+            <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-color:aqua"></div>
             <div class="auto-container">
                 <div class="inner-box">
                     <div class="video-btn mb_35">
                         <a href="https://youtu.be/09f6BWVMmY8?si=22TYBOTIwPP8Z9yp" class="lightbox-image" data-caption=""><i class="icon-10"></i></a>
                     </div>
-                    <h2>Discover the Power of <span>Emotional Well-Being</span></h2>
-                    <div class="lower-box">
-                        <div class="person-box">
-                            <ul class="person clearfix">
-                                <li><img src="assets/images/resource/person-1.png" alt=""></li>
-                                <li><img src="assets/images/resource/person-2.png" alt=""></li>
-                                <li>
-                                    <div class="text"><span class="g_color">27+</span></div>
-                                </li>
-                            </ul>
-                            <h5>Stronger minds, healthier bonds.</h5>
-                        </div>
-                        <div class="support-box">
-                            <h2 style="font-size:50px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;"><a href="mailto:office@drnajmunriyaz.com">office@drnajmunriyaz.com</a></h2>
-                        </div>
-                    </div>
+                    <h2>Message by <span>Dr. Najmun</span></h2>
                 </div>
             </div>
         </section>
@@ -242,8 +190,8 @@
             <div class="auto-container">
                 <div class="sec-title centred">
                     <h5 class="g_color"><i class="icon-11 g_color"></i>CARE • HEAL • GROW</h5>
-                    <h2>Transform Your Well-Being</h2>
-                    <p>Explore Dr. Najmun Riyaz’s core services designed to nurture mental health, build resilience, and inspire personal growth.</p>
+                    <h2>Educational Videos By Dr. Najmun</h2>
+                    <p>Disclaimer: These videos are meant only for education purpose <br> and breaking stigma on mental health.</p>
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-6 col-sm-12 service-block">
@@ -307,9 +255,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="lower-text centred">
-                    <h3>You Can Also <a href="index.html">See All Business</a> Services</h3>
-                </div>
             </div>
         </section>
         <!-- service-section end -->
@@ -323,45 +268,12 @@
                     <div class="row align-items-center clearfix">
                         <div class="col-lg-6 col-md-12 col-sm-12 title-column">
                             <div class="sec-title">
-                                <h5 class="g_color"><i class="icon-11 g_color"></i>How It Works</h5>
-                                <h2>Easy Steps to Begin Your Journey Toward Healing</h2>
+                                <h2>Request For Content On Social Media</h2>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-12 col-sm-12 text-column">
                             <div class="text">
-                                <p>Taking the first step toward emotional well-being doesn’t have to be overwhelming. Here’s how Dr. Najmun supports you through the process:</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="inner-container centred wow fadeInLeft animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                    <div class="shape" style="background-image: url(assets/images/shape/shape-3.png);"></div>
-                    <div class="inner">
-                        <div class="working-block-one">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <span class="count-text">01</span>
-                                    <div class="icon g_color"><i class="fa fa-envelope"></i></div>
-                                </div>
-                                <h3><a href="index.html">Reach Out</a></h3>
-                            </div>
-                        </div>
-                        <div class="working-block-one">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <span class="count-text">02</span>
-                                    <div class="icon g_color"><i class="fa fa-comment"></i></div>
-                                </div>
-                                <h3><a href="index.html">Share Your Story</a></h3>
-                            </div>
-                        </div>
-                        <div class="working-block-one">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <span class="count-text">03</span>
-                                    <div class="icon g_color"><i class="fa fa-leaf"></i></div>
-                                </div>
-                                <h3><a href="index.html">Begin Healing</a></h3>
+                                <p>If you wnat dr . najmun to make a video on any particular topic related to mentla health, trauma awareness, emotional intellegecne and parenting skills kindly send us your request via the contact form below. please keep your request to as general as possible.</p>
                             </div>
                         </div>
                     </div>
@@ -473,150 +385,8 @@
         </section>
         <!-- project-section end -->
 
-
-        <!-- testimonial-section -->
-        <section class="testimonial-section centred">
-            <div class="shape">
-                <div class="shape-1" style="background-image: url(assets/images/shape/shape-9.png);"></div>
-                <div class="shape-2" style="background-image: url(assets/images/shape/shape-10.png);"></div>
-            </div>
-            <div class="auto-container">
-                <div class="sec-title">
-                    <h5 class="g_color"><i class="icon-11 g_color"></i>WHAT PEOPLE SAY</h5>
-                    <h2>Stories of Healing & Growth</h2>
-                    <p>Hear from individuals who have worked with Dr. Najmun Riyaz and discovered new ways to heal, grow, and live with resilience. Their journeys reflect the power of compassion, self-awareness, and holistic care.</p>
-                </div>
-                <div class="bxslider">
-                    <div class="slider-content">
-                        <div class="slider-pager">
-                            <ul class="thumb-box clearfix">
-                                <li>
-                                    <a class="active" data-slide-index="0" href="#">
-                                        <figure class="thumb thumb-1"><span>“</span><img src="assets/images/resource/thumb-1.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="1" href="#">
-                                        <figure class="thumb thumb-2"><span>“</span><img src="assets/images/resource/thumb-2.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="2" href="#">
-                                        <figure class="thumb thumb-3"><span>“</span><img src="assets/images/resource/thumb-3.png" alt=""></figure>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="testimonial-content">
-                            <ul class="rating-box clearfix">
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                            </ul>
-                            <p>I had the privilege of attending Dr. Riyaz’s group seminars, and they were both informative and highly beneficial. She listens with patience, provides thoughtful answers, and keeps the sessions engaging. Though planned for an hour, they went longer because of the meaningful discussions and interaction.</p>
-                            <div class="author-info">
-                                <h5>Obaid, <span class="g_color">Patient</span></h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slider-content">
-                        <div class="slider-pager">
-                            <ul class="thumb-box clearfix">
-                                <li>
-                                    <a class="active" data-slide-index="0" href="#">
-                                        <figure class="thumb thumb-1"><span>“</span><img src="assets/images/resource/thumb-1.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="1" href="#">
-                                        <figure class="thumb thumb-2"><span>“</span><img src="assets/images/resource/thumb-2.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="2" href="#">
-                                        <figure class="thumb thumb-3"><span>“</span><img src="assets/images/resource/thumb-3.png" alt=""></figure>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="testimonial-content">
-                            <ul class="rating-box clearfix">
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                            </ul>
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
-                            <div class="author-info">
-                                <h5>Michel Joi, <span class="g_color">Our Customers</span></h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slider-content">
-                        <div class="slider-pager">
-                            <ul class="thumb-box clearfix">
-                                <li>
-                                    <a class="active" data-slide-index="0" href="#">
-                                        <figure class="thumb thumb-1"><span>“</span><img src="assets/images/resource/thumb-1.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="1" href="#">
-                                        <figure class="thumb thumb-2"><span>“</span><img src="assets/images/resource/thumb-2.png" alt=""></figure>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a data-slide-index="2" href="#">
-                                        <figure class="thumb thumb-3"><span>“</span><img src="assets/images/resource/thumb-3.png" alt=""></figure>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="testimonial-content">
-                            <ul class="rating-box clearfix">
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                                <li><i class="icon-20"></i></li>
-                            </ul>
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
-                            <div class="author-info">
-                                <h5>Alex Jhon, <span class="g_color">Our Customers</span></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- testimonial-section end -->
-
-
-        <!-- cta-section -->
-        <section class="cta-section">
-            <div class="auto-container">
-                <div class="inner-container" style="background-image: url(assets/images/background/cta-bg.jpg);">
-                    <div class="inner-box">
-                        <div class="text">
-                            <h2>Begin Your Journey</h2>
-                            <p>Start your journey to balance and well-being today.</p>
-                        </div>
-                        <div class="btn-box">
-                            <a href="index.html" class="theme-btn btn-one"><i class="icon-7"></i>Join Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- cta-section end -->
-
-        <hr class="new-hr">
-
         <!-- subscribe-section -->
-        <section class="subscribe-section">
+        <!-- <section class="subscribe-section">
             <div class="auto-container">
                 <div class="row clearfix align-items-center">
                     <div class="col-lg-5 col-md-12 col-sm-12 text-column">
@@ -636,7 +406,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- subscribe-section end -->
 
 
