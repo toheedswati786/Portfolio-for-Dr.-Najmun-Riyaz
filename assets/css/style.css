@@ -352,7 +352,9 @@ img {
   transition-duration: .7s;
   transition-property: all;
 }
-
+img.main-logo-header{
+  max-width: none !important;
+}
 /** button **/
 
 

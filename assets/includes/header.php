@@ -8,7 +8,7 @@
             <div class="header-lower" >
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="index.html"><img class="main-logo-header" src="assets/images/logo.png" style="width : 320px !important; padding-top:9px;max-width: auto !important;" alt=""></a></figure>
+                        <figure class="logo"><a href="index.html"><img class="main-logo-header" src="assets/images/logo.png" style="width : 240px !important; padding-top:9px;max-width: none !important;" alt=""></a></figure>
                     </div>
                     <div class="menu-area clearfix">
                         <!--Mobile Navigation Toggler-->
@@ -40,7 +40,7 @@
                         </nav>
                     </div>
                     <div class="btn-box">
-                        <a href="index.html" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
+                        <a href="#staticBackdrop" type="button"  data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
                     </div>
                 </div>
             </div>
@@ -49,15 +49,16 @@
             <div class="sticky-header">
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                        <figure class="logo"><a href="index.html"><img src="assets/images/logo.png" style="width : 240px !important; padding-top:9px;max-width: none !important;" alt=""></a></figure>
                     </div>
                     <div class="menu-area clearfix">
                         <nav class="main-menu clearfix">
                         </nav>
                     </div>
                     <div class="btn-box">
-                        <a href="index.html" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
+                        <a href="#exampleModal"type="button"  data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
                     </div>
                 </div>
             </div>
         </header>
+

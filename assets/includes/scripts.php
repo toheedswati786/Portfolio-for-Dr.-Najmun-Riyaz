@@ -16,3 +16,4 @@
     <script src="assets/js/script.js"></script>
     <script defer src="https://friconix.com/cdn/friconix.js"> </script>
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+

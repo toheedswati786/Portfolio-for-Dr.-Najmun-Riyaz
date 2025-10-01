@@ -59,7 +59,7 @@
                         <div class="vector-img-6"><img src="assets/images/icons/icon-6.png" alt=""></div>
                         <div class="vector-img-7"><img src="assets/images/shape/shape-45.png" alt=""></div>
                     </div>
-                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: 50px;" alt=""></figure>
+                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: -50px;" alt=""></figure>
                     <div class="outer-container">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -80,7 +80,7 @@
                         <div class="vector-img-6"><img src="assets/images/icons/icon-6.png" alt=""></div>
                         <div class="vector-img-7"><img src="assets/images/shape/shape-45.png" alt=""></div>
                     </div>
-                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: 50px;" alt=""></figure>
+                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: -50px;" alt=""></figure>
                     <div class="outer-container">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -101,7 +101,7 @@
                         <div class="vector-img-6"><img src="assets/images/icons/icon-6.png" alt=""></div>
                         <div class="vector-img-7"><img src="assets/images/shape/shape-45.png" alt=""></div>
                     </div>
-                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: 50px;" alt=""></figure>
+                    <figure class="image-layer"><img src="assets/images/banner/banner-img-1.png" style="margin-top: -50px;" alt=""></figure>
                     <div class="outer-container">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
