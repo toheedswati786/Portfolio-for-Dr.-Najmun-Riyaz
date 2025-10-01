@@ -273,7 +273,7 @@
                         </div>
                         <div class="col-lg-6 col-md-12 col-sm-12 text-column">
                             <div class="text">
-                                <p>If you wnat dr . najmun to make a video on any particular topic related to mentla health, trauma awareness, emotional intellegecne and parenting skills kindly send us your request via the contact form below. please keep your request to as general as possible.</p>
+                                <p>If you would like Dr. Najmun to create a video on a specific topic related to mental health, trauma awareness, emotional intelligence, or parenting skills, please submit your request using the contact form below. Kindly keep your request general.</p>
                             </div>
                         </div>
                     </div>

@@ -30,7 +30,6 @@
                                     <ul class="info clearfix">
                                         <li><i class="icon-2"></i><a href="tel:+15513628226">+1(551)362-8226</a></li>
                                         <li><i class="icon-19"></i><a href="mailto:office@drnajmunriyaz.com">office@drnajmunriyaz.com</a></li>
-                                        <li><i class="icon-23"></i>Mount Laurel, <br> NJ 08054</li>
                                     </ul>
                                 </div>
                             </div>
@@ -43,11 +42,11 @@
                                 <div class="row clearfix">
                                     <div class="col-lg-12 col-md-12 col-sm-12 link-column">
                                         <ul class="links-list clearfix">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="index.html">About</a></li>
-                                            <li><a href="index.html">Contact</a></li>
-                                            <li><a href="index.html">Services</a></li>
-                                            <li><a href="index.html">Blog</a></li>
+                                            <li><a href="index.php">Home</a></li>
+                                            <li><a href="about.php">About</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="service.php">Services</a></li>
+                                            <li><a href="blog.php">Blog</a></li>
                                         </ul>
                                     </div>
                                 </div>
