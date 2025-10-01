@@ -171,7 +171,7 @@
         <section class="video-section centred">
             <div class="shape" style="background-image: url(assets/images/shape/shape-2.png);"></div>
             <div class="shape-2 float-bob-x" style="background-image: url(assets/images/shape/shape-46.png);"></div>
-            <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-color:aqua"></div>
+            <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-color:#5a2553"></div>
             <div class="auto-container">
                 <div class="inner-box">
                     <div class="video-btn mb_35">
@@ -206,7 +206,7 @@
                                 </div>
                                 <div class="overlay-content">
                                     <div class="inner">
-                                        <div class="icon-box"><i class="fa fa-brain"></i></div>
+                                        <div class="icon-box"><i class="fas fa-brain"></i></div>
                                         <h3><a href="business-planning.html">Psychiatry & Therapy</a></h3>
                                         <p>Personalized, evidence-based treatment for anxiety, depression, trauma, and emotional challenges with a compassionate approach.</p>
                                     </div>

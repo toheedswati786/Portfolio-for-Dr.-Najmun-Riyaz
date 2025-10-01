@@ -1,9 +1,14 @@
-        <header class="main-header">
+<!-- <style>
+    img.main-logo-header{
+        max-width: auto !important;
+    }
+</style> -->
+<header class="main-header">
             <!-- header-lower -->
-            <div class="header-lower">
+            <div class="header-lower" >
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                        <figure class="logo"><a href="index.html"><img class="main-logo-header" src="assets/images/logo.png" style="width : 320px !important; padding-top:9px;max-width: auto !important;" alt=""></a></figure>
                     </div>
                     <div class="menu-area clearfix">
                         <!--Mobile Navigation Toggler-->
@@ -48,7 +53,6 @@
                     </div>
                     <div class="menu-area clearfix">
                         <nav class="main-menu clearfix">
-                            <!--Keep This Empty / Menu will come through Javascript-->
                         </nav>
                     </div>
                     <div class="btn-box">

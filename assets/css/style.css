@@ -10388,3 +10388,8 @@ div#mCSB_1_container{
 .header-style-three .menu-area .mobile-nav-toggler .icon-bar{
   background: #fff;
 }
+
+
+img.main-logo-header{
+  max-width: auto !important;
+}
