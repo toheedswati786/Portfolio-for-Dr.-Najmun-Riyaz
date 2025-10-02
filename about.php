@@ -95,24 +95,8 @@
                                 <div class="video-btn">
                                     <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&t=28s" class="lightbox-image" data-caption=""><i class="icon-10"></i></a>
                                 </div>
-                                <h2>Empowering Minds, Inspiring Change</h2>
-                                <p>Dr. Najmun Riyaz is committed to guiding individuals and organizations toward mental clarity, emotional well-being, and lasting resilience. Through psychiatry, wellness coaching, and education, her work blends science, compassion, and holistic care.</p>
-                            </div>
-                            <div class="inner-box">
-                                <div class="single-item">
-                                    <div class="icon-box">
-                                        <div class="icon g_color"><i class="icon-8"></i></div>
-                                    </div>
-                                    <h3>Our Mission</h3>
-                                    <p>To deliver compassionate care and coaching that helps people heal, grow, and build resilience.</p>
-                                </div>
-                                <div class="single-item">
-                                    <div class="icon-box">
-                                        <div class="icon g_color"><i class="icon-9"></i></div>
-                                    </div>
-                                    <h3>Our Vision</h3>
-                                    <p>A world where mental health is valued and every person thrives with balance and purpose.</p>
-                                </div>
+                                <h2>Meet Dr. Najmun</h2>
+                                <p>Dr. Najmun Riyaz is a practicing psychiatrist and certified empowerment coach based in New Jersey. She is the founder of Zehen Global, a virtual telepsychiatry practice dedicated to providing holistic, trauma-informed, and neurodivergent-affirming care for working women. Through Zehen Global, she also leads educational initiatives and community outreach programs focused on mental health awareness, prevention, and stigma reduction — both globally and in South Asia.</p>
                             </div>
                         </div>
                     </div>

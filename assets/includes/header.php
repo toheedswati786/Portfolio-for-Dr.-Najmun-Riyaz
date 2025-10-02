@@ -35,7 +35,7 @@
                         </nav>
                     </div>
                     <div class="btn-box">
-                        <a href="#demo-modal" data-bs-toggle="modal" data-bs-target="#demo-modal" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
+                        <a href="#exampleModalToggle" data-bs-toggle="modal" data-bs-target="#exampleModalToggle" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
                         </nav>
                     </div>
                     <div class="btn-box">
-                        <a href="#demo-modal"  data-bs-toggle="modal" data-bs-target="#demo-modal" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
+                        <a href="#exampleModalToggle"  data-bs-toggle="modal" data-bs-target="#exampleModalToggle" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
                     </div>
                 </div>
             </div>
