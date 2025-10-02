@@ -137,7 +137,7 @@ if (isset($_POST['emaail']) && !empty(isset($_POST['emaail']))){
 
 
         <!-- subscribe-section -->
-        <section class="subscribe-section">
+        <section class="subscribe-section" style="display:none !important;">
             <div class="auto-container">
                 <div class="row clearfix align-items-center">
                     <div class="col-lg-5 col-md-12 col-sm-12 text-column">
