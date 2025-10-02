@@ -1,8 +1,3 @@
-<!-- <style>
-    img.main-logo-header{
-        max-width: auto !important;
-    }
-</style> -->
 <header class="main-header">
             <!-- header-lower -->
             <div class="header-lower" >
@@ -40,7 +35,7 @@
                         </nav>
                     </div>
                     <div class="btn-box">
-                        <a href="#staticBackdrop" type="button"  data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
+                        <a href="#demo-modal" data-bs-toggle="modal" data-bs-target="#demo-modal" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
                     </div>
                 </div>
             </div>
@@ -56,9 +51,8 @@
                         </nav>
                     </div>
                     <div class="btn-box">
-                        <a href="#exampleModal"type="button"  data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
+                        <a href="#demo-modal"  data-bs-toggle="modal" data-bs-target="#demo-modal" class="theme-btn btn-one"><i class="icon-7"></i>Free consultion</a>
                     </div>
                 </div>
             </div>
         </header>
-
